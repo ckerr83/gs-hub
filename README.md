@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# GS Hub
 
-## Getting Started
+One modular Next.js application in this directory, with the supplied GS Import
+logo in the shared header. Dashboard: `/`. Wine database:
+`/wine-database`. `/wine-library` permanently redirects to the new route; legacy
+image/evidence URLs and the old local-backup key remain compatible.
 
-First, run the development server:
+The wine database has one continuous table, search, producer/country/style filters,
+a missing registered-price filter, sorting, details, export, and version-checked
+shared create/edit/archive operations. English / ไทย is shared across pages and
+persisted in a first-party cookie. Thai fonts are self-hosted with their license.
+The existing TypeScript configuration is unchanged.
 
-```bash
+**Team email sign-in is implemented at `/sign-in`.** It requests links only for
+existing invited Auth accounts and checks the approved roster before opening the
+wine database. Configure Supabase Auth, invite `chris@gsimport.co.th`, and run the
+small enrollment SQL using the [team-access setup instructions](src/modules/team-access/README.md).
+No privileged key is used by the application.
+
+The owner has reported completing the wine SQL import. Anonymous API requests now
+return 401, as expected. Imported row counts, private photo uploads, successful
+email delivery and real cross-browser persistence remain unverified. A read-only
+Auth settings check found public sign-up still enabled at the provider; disable
+it in Supabase as described in the setup instructions. Wine RLS remains restricted.
+
+The recovered migration source is retained: 123 wines, 81 photos, 244 cost
+references and 123 evidence records. The obsolete 416-row seed is not used.
+Existing device-local changes remain untouched and can be exported and reviewed
+through **Local reconciliation** on each original browser/origin.
+
+Run locally:
+
+```sh
+npm ci
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Checks:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```sh
+npm run lint
+npm test
+npm run build
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Tests include local PostgreSQL execution of the actual schema/import SQL, access
+policies, version conflicts, archives and repeatable imports. These do not prove
+live Supabase persistence. Browser layout checks use an isolated, loopback-only
+fixture harness while authentication is unavailable.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+See [the wine module setup and exact SQL Editor/import instructions](src/modules/wine-database/README.md).

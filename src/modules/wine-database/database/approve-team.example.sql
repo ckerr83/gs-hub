@@ -1,0 +1,9 @@
+-- TEMPLATE ONLY. Use only for additional administrator-approved team users.
+-- Email sign-in is implemented in src/modules/team-access. Invite an Auth user
+-- first, then enroll the approved ID below. An administrator enrolls approved users
+-- from auth.users; this is not a public registration or self-enrollment path.
+-- Replace the example UUID with an approved auth.users.id, then run as postgres.
+-- insert into wine_private.team_access(user_id,can_write)
+-- values ('00000000-0000-0000-0000-000000000000',true)
+-- on conflict (user_id) do update set can_write=excluded.can_write;
+-- Remove access: delete from wine_private.team_access where user_id='...';

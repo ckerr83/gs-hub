@@ -1,0 +1,349 @@
+{
+  "checked": 27,
+  "differences": [
+    {
+      "shipment": "Estampa · Chile",
+      "label": "current",
+      "line": 0,
+      "field": "shared",
+      "old": 14794.56,
+      "next": 14794.58
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "current",
+      "line": 0,
+      "field": "cost",
+      "old": 55307.64,
+      "next": 55307.66
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "current",
+      "line": 5,
+      "field": "shared",
+      "old": 14794.56,
+      "next": 14794.57
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "current",
+      "line": 5,
+      "field": "cost",
+      "old": 55695.39,
+      "next": 55695.4
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "current",
+      "line": 7,
+      "field": "shared",
+      "old": 4438.38,
+      "next": 4438.37
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "current",
+      "line": 7,
+      "field": "cost",
+      "old": 21774.86,
+      "next": 21774.85
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "current",
+      "line": 8,
+      "field": "shared",
+      "old": 4438.37,
+      "next": 4438.36
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "current",
+      "line": 8,
+      "field": "cost",
+      "old": 21753.7,
+      "next": 21753.69
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "current",
+      "line": 9,
+      "field": "shared",
+      "old": 4438.37,
+      "next": 4438.36
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "current",
+      "line": 9,
+      "field": "cost",
+      "old": 44104.36,
+      "next": 44104.35
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "Order forecast 1",
+      "line": 0,
+      "field": "shared",
+      "old": 13045.82,
+      "next": 13045.84
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "Order forecast 1",
+      "line": 0,
+      "field": "cost",
+      "old": 53558.9,
+      "next": 53558.92
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "Order forecast 1",
+      "line": 5,
+      "field": "shared",
+      "old": 13045.82,
+      "next": 13045.83
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "Order forecast 1",
+      "line": 5,
+      "field": "cost",
+      "old": 53946.65,
+      "next": 53946.66
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "Order forecast 1",
+      "line": 7,
+      "field": "shared",
+      "old": 3913.76,
+      "next": 3913.75
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "Order forecast 1",
+      "line": 7,
+      "field": "cost",
+      "old": 21250.24,
+      "next": 21250.23
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "Order forecast 1",
+      "line": 8,
+      "field": "shared",
+      "old": 3913.75,
+      "next": 3913.74
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "Order forecast 1",
+      "line": 8,
+      "field": "cost",
+      "old": 21229.08,
+      "next": 21229.07
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "Order forecast 1",
+      "line": 9,
+      "field": "shared",
+      "old": 3913.75,
+      "next": 3913.74
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "Order forecast 1",
+      "line": 9,
+      "field": "cost",
+      "old": 43579.74,
+      "next": 43579.73
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "Actual 1",
+      "line": 0,
+      "field": "shared",
+      "old": 14794.56,
+      "next": 14794.58
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "Actual 1",
+      "line": 0,
+      "field": "cost",
+      "old": 55307.64,
+      "next": 55307.66
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "Actual 1",
+      "line": 5,
+      "field": "shared",
+      "old": 14794.56,
+      "next": 14794.57
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "Actual 1",
+      "line": 5,
+      "field": "cost",
+      "old": 55695.39,
+      "next": 55695.4
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "Actual 1",
+      "line": 7,
+      "field": "shared",
+      "old": 4438.38,
+      "next": 4438.37
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "Actual 1",
+      "line": 7,
+      "field": "cost",
+      "old": 21774.86,
+      "next": 21774.85
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "Actual 1",
+      "line": 8,
+      "field": "shared",
+      "old": 4438.37,
+      "next": 4438.36
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "Actual 1",
+      "line": 8,
+      "field": "cost",
+      "old": 21753.7,
+      "next": 21753.69
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "Actual 1",
+      "line": 9,
+      "field": "shared",
+      "old": 4438.37,
+      "next": 4438.36
+    },
+    {
+      "shipment": "Estampa · Chile",
+      "label": "Actual 1",
+      "line": 9,
+      "field": "cost",
+      "old": 44104.36,
+      "next": 44104.35
+    },
+    {
+      "shipment": "Lienert/Eisenstone",
+      "label": "current",
+      "field": "tax",
+      "old": 122040.1,
+      "next": 122040.11
+    },
+    {
+      "shipment": "Lienert/Eisenstone",
+      "label": "current",
+      "field": "total",
+      "old": 340490.58,
+      "next": 340490.59
+    },
+    {
+      "shipment": "Lienert/Eisenstone",
+      "label": "current",
+      "field": "cash",
+      "old": 362189.64,
+      "next": 362189.65
+    },
+    {
+      "shipment": "Lienert/Eisenstone",
+      "label": "current",
+      "line": 3,
+      "field": "funds",
+      "old": 959.17,
+      "next": 959.18
+    },
+    {
+      "shipment": "Lienert/Eisenstone",
+      "label": "current",
+      "line": 3,
+      "field": "tax",
+      "old": 15027.07,
+      "next": 15027.08
+    },
+    {
+      "shipment": "Lienert/Eisenstone",
+      "label": "current",
+      "line": 3,
+      "field": "cost",
+      "old": 34786.84,
+      "next": 34786.85
+    },
+    {
+      "shipment": "Golding / Hatch",
+      "label": "current",
+      "field": "tax",
+      "old": 238210.01,
+      "next": 238210.02
+    },
+    {
+      "shipment": "Golding / Hatch",
+      "label": "current",
+      "field": "total",
+      "old": 739689.25,
+      "next": 739689.26
+    },
+    {
+      "shipment": "Golding / Hatch",
+      "label": "current",
+      "field": "cash",
+      "old": 785713.15,
+      "next": 785713.16
+    },
+    {
+      "shipment": "Golding / Hatch",
+      "label": "current",
+      "line": 14,
+      "field": "funds",
+      "old": 959.17,
+      "next": 959.18
+    },
+    {
+      "shipment": "Golding / Hatch",
+      "label": "current",
+      "line": 14,
+      "field": "tax",
+      "old": 15027.07,
+      "next": 15027.08
+    },
+    {
+      "shipment": "Golding / Hatch",
+      "label": "current",
+      "line": 14,
+      "field": "cost",
+      "old": 34297.22,
+      "next": 34297.23
+    }
+  ],
+  "skipped": [
+    {
+      "shipment": "Marlborist 27",
+      "label": "current",
+      "old": [
+        "Grande Sauvignon: Registered Price needs review before costing or confirming this order.",
+        "Chardonnay: Registered Price needs review before costing or confirming this order.",
+        "Pinot Noir: Registered Price needs review before costing or confirming this order."
+      ],
+      "new": [
+        "Registered Price is required for forecast taxes."
+      ]
+    }
+  ]
+}

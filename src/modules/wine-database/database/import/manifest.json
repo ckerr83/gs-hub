@@ -1,0 +1,149 @@
+{
+  "sourceRevision": 1392,
+  "wines": 123,
+  "costReferences": 244,
+  "evidenceRecords": 123,
+  "images": 81,
+  "mode": "prepared-only",
+  "conflictPolicy": "insert-only; never update or unarchive",
+  "sqlEditor": {
+    "maxPartBytes": 49152,
+    "parts": [
+      {
+        "file": "sql-editor/001-wines.sql",
+        "table": "wines",
+        "rows": 26,
+        "bytes": 47621
+      },
+      {
+        "file": "sql-editor/002-wines.sql",
+        "table": "wines",
+        "rows": 26,
+        "bytes": 48276
+      },
+      {
+        "file": "sql-editor/003-wines.sql",
+        "table": "wines",
+        "rows": 26,
+        "bytes": 49074
+      },
+      {
+        "file": "sql-editor/004-wines.sql",
+        "table": "wines",
+        "rows": 27,
+        "bytes": 48152
+      },
+      {
+        "file": "sql-editor/005-wines.sql",
+        "table": "wines",
+        "rows": 18,
+        "bytes": 31606
+      },
+      {
+        "file": "sql-editor/006-wine-cost-references.sql",
+        "table": "wine_cost_references",
+        "rows": 116,
+        "bytes": 48767
+      },
+      {
+        "file": "sql-editor/007-wine-cost-references.sql",
+        "table": "wine_cost_references",
+        "rows": 107,
+        "bytes": 48930
+      },
+      {
+        "file": "sql-editor/008-wine-cost-references.sql",
+        "table": "wine_cost_references",
+        "rows": 21,
+        "bytes": 10149
+      },
+      {
+        "file": "sql-editor/009-wine-source-evidence.sql",
+        "table": "wine_source_evidence",
+        "rows": 12,
+        "bytes": 46915
+      },
+      {
+        "file": "sql-editor/010-wine-source-evidence.sql",
+        "table": "wine_source_evidence",
+        "rows": 11,
+        "bytes": 48017
+      },
+      {
+        "file": "sql-editor/011-wine-source-evidence.sql",
+        "table": "wine_source_evidence",
+        "rows": 11,
+        "bytes": 49032
+      },
+      {
+        "file": "sql-editor/012-wine-source-evidence.sql",
+        "table": "wine_source_evidence",
+        "rows": 10,
+        "bytes": 45891
+      },
+      {
+        "file": "sql-editor/013-wine-source-evidence.sql",
+        "table": "wine_source_evidence",
+        "rows": 14,
+        "bytes": 48807
+      },
+      {
+        "file": "sql-editor/014-wine-source-evidence.sql",
+        "table": "wine_source_evidence",
+        "rows": 16,
+        "bytes": 49041
+      },
+      {
+        "file": "sql-editor/015-wine-source-evidence.sql",
+        "table": "wine_source_evidence",
+        "rows": 12,
+        "bytes": 48385
+      },
+      {
+        "file": "sql-editor/016-wine-source-evidence.sql",
+        "table": "wine_source_evidence",
+        "rows": 14,
+        "bytes": 46620
+      },
+      {
+        "file": "sql-editor/017-wine-source-evidence.sql",
+        "table": "wine_source_evidence",
+        "rows": 19,
+        "bytes": 48792
+      },
+      {
+        "file": "sql-editor/018-wine-source-evidence.sql",
+        "table": "wine_source_evidence",
+        "rows": 4,
+        "bytes": 5274
+      }
+    ]
+  },
+  "files": {
+    "wines.json": "9954c71c648929d22c458f45cd5d5e689291e28838f8f6b23cc4937311b7b526",
+    "wine-cost-references.json": "f2b95c335c11d9b228bcbd0910716137b22dcca191b4145a566217f38bd5322a",
+    "wine-source-evidence.json": "2525c8b01983f1a992ef7ad99a226a4b826e18bf5a209d08f8d1b0754fe125cf",
+    "images.json": "5f56a491219cf7dd1eb7405ae6375248dac4ad30986d1040412b888fbe9eb84b",
+    "import.sql": "caf86d745a8dd9fadac1926957b4efa035501b8eeebaeefa57aec267909cd51c",
+    "audit-wines.sql": "2285e32609db4b50b6e6800f0bec2224f63bd89f98766614da9fe58fd86b09c0",
+    "sql-editor/README.md": "d909539b3ff83c7e6e588e607ef2a58091406a609ecc994179041c72ab736c42",
+    "sql-editor/001-wines.sql": "9393fa196d31db3fc4ca7de46758ded36b20f6010eb45d78b3c8ef74ecd13ba0",
+    "sql-editor/002-wines.sql": "c13a2f03dd9de5de5039cd74f1b9e45d64164e85bd8c325a82ca8985b4ba355c",
+    "sql-editor/003-wines.sql": "1010c186791c6ebabe6543b22c4ab1c4956d7fd35c7605e6b41e4b2302e9f60a",
+    "sql-editor/004-wines.sql": "0c2e0b51ab6f33b350b61e416b5fd8adc9ef10ddbf6616d6a0b7ad6230506e39",
+    "sql-editor/005-wines.sql": "18896ad09485fd00a8f15d81ba15bc14c7a3c2039eb152a761b3c1f822e44653",
+    "sql-editor/006-wine-cost-references.sql": "25479b7bb8d170ceaa2963258f247a4f60d6e58107a30a440f3b038a3edac1c8",
+    "sql-editor/007-wine-cost-references.sql": "3eec2947837171fa89afd432353715b8ae1599e0f7ccf67f51e77bdda7ac3267",
+    "sql-editor/008-wine-cost-references.sql": "edd14402cb739e9741607f3bb1c3d6bd3828ff19c2d97d505a3bf896317b9b9c",
+    "sql-editor/009-wine-source-evidence.sql": "bf2e85593934765a361bec22131d0e997f2937d59229c2ac79e7ca88774a8941",
+    "sql-editor/010-wine-source-evidence.sql": "1333299e98d06d13ad55b41c0b64e30a6c00709f0a245392d7ed5a4822065982",
+    "sql-editor/011-wine-source-evidence.sql": "05191849e9430d0de262c96ae85544da8e678b2939d9f09fab7fe0c014e913a3",
+    "sql-editor/012-wine-source-evidence.sql": "1e284d8f80d7b719993b841d73db7caa376cbb1173b0cc144e5d1cdb8de1865f",
+    "sql-editor/013-wine-source-evidence.sql": "dad671796a3730976cbb1e8f178647550117641587a2ccecdc4e325ef6a7f260",
+    "sql-editor/014-wine-source-evidence.sql": "7de96c78f41dfcfc7ea33c29f4fdc4af39a445b0b0bcdd9289b56b408d6712e9",
+    "sql-editor/015-wine-source-evidence.sql": "71342602c67e1b21a0d43b6fc53e1018e88586af16b26acdb39fcc6606ef37a3",
+    "sql-editor/016-wine-source-evidence.sql": "7d4992749292ffd675b56f6aee04ffb700aa21bbfa07e91fcc024998a53f4837",
+    "sql-editor/017-wine-source-evidence.sql": "88ea30470625039d7a76ad235a9c0e72c8f6cc00d3ba90fdfa077f7c4e43f75a",
+    "sql-editor/018-wine-source-evidence.sql": "d0861dd8824dc1a47d400b7c6a19ef78a517bb2eef5653c2dc2631b5850c8add"
+  }
+}

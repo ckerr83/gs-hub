@@ -1,0 +1,9 @@
+-- READ ONLY: run as postgres after the schema and import files.
+with expected as (select * from jsonb_to_recordset('[{"id":"estampa-review","name":"Estampa · Chile"},{"id":"f063baca-ed50-4892-b306-b0aa425f733e","name":"Borsao"},{"id":"7c326f9e-87db-406e-89be-5e0969eb41e4","name":"Lienert/Eisenstone"},{"id":"b1fb4e55-8cfd-4302-87d7-d094240cb171","name":"Golding / Hatch"},{"id":"5665b68f-1371-4d72-97f2-86af2906e45e","name":"Marlborist 27"},{"id":"47aef809-690f-4b59-a6b5-c3dc16d4b823","name":"Spada August 26"},{"id":"f20500ba-b066-4b85-827e-f8aecd8c7abd","name":"CMP BiB"},{"id":"7969567c-b1b4-4a0f-a74f-c8c80617b8ff","name":"La Nascosta Jan 26"},{"id":"a7c06795-769c-4aba-aafc-ae7bf7e0bfc0","name":"Aaldering #1"},{"id":"3af10b90-d822-4e46-8096-9bbcec8d0aec","name":"Vaglio 2026"},{"id":"c27d041a-4ed7-472c-85f5-804e6464f3a2","name":"Chateau Carbonneau 2026"},{"id":"85d659ae-4f29-408d-a5b1-9b6a8f8654f5","name":"Fetherston 26"}]'::jsonb) as s(id text,name text))
+select e.id,e.name,s.version,case when s.id is null then 'missing' when coalesce(s.data->>'arrivalDate','')='' then 'active' else 'completed' end as import_status
+from expected e left join public.shipments s using(id) order by e.name;
+select count(*) as shipments,count(*) filter(where coalesce(data->>'arrivalDate','')='') as active,count(*) filter(where coalesce(data->>'arrivalDate','')<>'') as completed from public.shipments;
+select count(*) as saved_versions from public.shipment_forecast_versions;
+select count(*) as preserved_sources from public.shipment_source_evidence;
+select has_table_privilege('anon','public.shipments','select') as anonymous_read,has_table_privilege('authenticated','public.shipments','update') as direct_update,has_function_privilege('anon','public.shipment_commit(jsonb,integer)','execute') as anonymous_write;
+-- All three privilege outputs must be false.

@@ -1,0 +1,84 @@
+.access-main {
+  max-width: 580px;
+  padding-top: 56px;
+}
+.access-card {
+  background: white;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 32px;
+}
+.access-card h1 {
+  font-size: 28px;
+  line-height: 1.4;
+  letter-spacing: -0.5px;
+}
+.access-intro {
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.8;
+  margin: 12px 0 24px;
+}
+.access-field {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  font-size: 14px;
+  font-weight: 550;
+}
+.access-field input {
+  width: 100%;
+  min-width: 0;
+  padding: 12px;
+  border: 1px solid #b8c0b2;
+  border-radius: 6px;
+  background: white;
+  color: var(--foreground);
+  font-size: 16px;
+}
+.access-submit {
+  margin-top: 20px;
+  width: 100%;
+  font-size: 14px;
+}
+.access-help {
+  margin: 20px 0 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.8;
+}
+.access-message {
+  margin: 18px 0 0;
+  padding: 14px;
+  border: 1px solid #c5d5bd;
+  background: #f1f6ed;
+  border-radius: 6px;
+  color: #354b2a;
+  font-size: 14px;
+  line-height: 1.8;
+}
+.access-message p {
+  margin: 6px 0 0;
+}
+.access-error {
+  background: #fff0ed;
+  border-color: #e6c4be;
+  color: #94332f;
+}
+@media (max-width: 600px) {
+  .access-main {
+    padding-top: 28px;
+  }
+  .access-card {
+    padding: 24px 20px;
+  }
+  .access-card h1 {
+    font-size: 25px;
+  }
+}
+.access-diagnostic {
+  display: block;
+  margin-top: 8px;
+  font-size: 12px;
+  overflow-wrap: anywhere;
+}

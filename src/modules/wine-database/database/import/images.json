@@ -1,0 +1,569 @@
+[
+  {
+    "local_path": "src/modules/wine-database/assets/images/4379877c-f9e3-4190-8f7c-7941e83c1802.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "4379877c-f9e3-4190-8f7c-7941e83c1802.png",
+    "bytes": 115711,
+    "sha256": "18bb27f351d1972c5a2051db2595deb7f849fe878f535fc789095b3f308e453d"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/0ada2137-a81a-4ba8-a9bd-ed053b13536f.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "0ada2137-a81a-4ba8-a9bd-ed053b13536f.png",
+    "bytes": 111472,
+    "sha256": "e991f79fdc867c0cd5c0308cd12f1e8705e72a246fb44093f3a7cbe72c5e2e6b"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/b6547868-cf81-4041-b24a-a886d2183739.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "b6547868-cf81-4041-b24a-a886d2183739.png",
+    "bytes": 108712,
+    "sha256": "e271d9f3fc26bbfaa790a3bd371a2318bad891bc46bce298b54fdfb80d55359d"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/5f468141-d249-4ab9-a2ad-ba77d054c909.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "5f468141-d249-4ab9-a2ad-ba77d054c909.png",
+    "bytes": 113717,
+    "sha256": "9170a777e02951a6bf862f7c0a38869ca494ec05c4fad7cc6dc73d48da4fff13"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/5acc0a9d-bc31-478f-ad21-a380f7e86f14.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "5acc0a9d-bc31-478f-ad21-a380f7e86f14.png",
+    "bytes": 100069,
+    "sha256": "10ad14020101b3d93651822777bb3e37beaf365e960dd024a2295092a9175095"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/20ff5658-a7b2-414a-866a-c61079b554d2.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "20ff5658-a7b2-414a-866a-c61079b554d2.png",
+    "bytes": 114870,
+    "sha256": "318ab9b25003f961863785598f448ac881d46a807276e693df93def901853efa"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/c0f3be1a-baf1-43d5-95a4-019453184072.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "c0f3be1a-baf1-43d5-95a4-019453184072.png",
+    "bytes": 761591,
+    "sha256": "61611af54a6a2e7fdc842ddd1a7bdcca550bbb277c77e09d1a36cd73ef8aa7f5"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/dda67db3-4c96-424d-812f-987ecbe9725a.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "dda67db3-4c96-424d-812f-987ecbe9725a.png",
+    "bytes": 627873,
+    "sha256": "138531dfc7b58fac5786097dc266b5a286d7941449e058c9830aeefcf2a9116d"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/f27a61ed-5530-4f59-9a1f-0d5499410c02.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "f27a61ed-5530-4f59-9a1f-0d5499410c02.png",
+    "bytes": 694265,
+    "sha256": "af52f4e3598339d73139a51c50f459c91f83040a09da6bb8705925034ea197c0"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/1e1f14e7-83a8-416a-b389-3a3f1a196d2b.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "1e1f14e7-83a8-416a-b389-3a3f1a196d2b.png",
+    "bytes": 238234,
+    "sha256": "317b861dffb91c8ad50378aa52c3ec39e172b8706c8c0277ae15fbe65f668f51"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/550562fa-a0cd-4b35-997d-bd058e64321f.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "550562fa-a0cd-4b35-997d-bd058e64321f.png",
+    "bytes": 340912,
+    "sha256": "70dc3b80fca5ce3baf45f96a59987a13b268d4b4becae1c7f787d09e6f2d6230"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/3ee433ea-7eb8-42f8-a4f9-134d3460d551.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "3ee433ea-7eb8-42f8-a4f9-134d3460d551.png",
+    "bytes": 273887,
+    "sha256": "91a85403d64d83c8bdc923d8de57f9076e807f2ea4edfda258f71584e35a9234"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/f8118eb5-dd6c-4af5-b6fe-d847dc363218.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "f8118eb5-dd6c-4af5-b6fe-d847dc363218.png",
+    "bytes": 178446,
+    "sha256": "43ab20b71045baca1562cbbd67cd2277338ecaa0d6c404ab19d8ba36adb89c78"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/789cb7b8-2c0d-438c-b309-d5c3f57ec4fa.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "789cb7b8-2c0d-438c-b309-d5c3f57ec4fa.png",
+    "bytes": 555508,
+    "sha256": "081654752ca887128522db142ea144b9b190065914b8b7185e36903952287861"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/0e1354fb-7f96-47a8-b3e9-5d68948dd4b7.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "0e1354fb-7f96-47a8-b3e9-5d68948dd4b7.png",
+    "bytes": 214182,
+    "sha256": "386c5c056b9d5bd78b612c7d8ec10df1d25df01d9306e7a4f8b52e7c89d5be6f"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/624612b2-3e9c-475f-9eaf-b8fef5a360c9.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "624612b2-3e9c-475f-9eaf-b8fef5a360c9.png",
+    "bytes": 537038,
+    "sha256": "c1b5042e27c52499a3544d2476e332edeea32e2053101e1491f2c37a71d8a2e2"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/fc5a6c29-cc15-45c1-b346-ee1555c4b2bd.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "fc5a6c29-cc15-45c1-b346-ee1555c4b2bd.png",
+    "bytes": 151544,
+    "sha256": "8620e73ceac9534117c8c21c137fb55cf8f38ec3b758378d1fb6f0f34c82fdba"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/ef5a7e09-6319-407e-8998-195c20dcec9d.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "ef5a7e09-6319-407e-8998-195c20dcec9d.png",
+    "bytes": 347461,
+    "sha256": "60e27a277cd223122bda36b8b4266a7dcd5d01871884921b756d9f6708ef11ac"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/a50fef9c-fbba-49a4-82bc-0929b5ed21bc.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "a50fef9c-fbba-49a4-82bc-0929b5ed21bc.png",
+    "bytes": 317143,
+    "sha256": "8e6491121d59cf579365bf129dfca60acb805a8976cd6f2444a5af675a9a7d1f"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/454c2eed-8416-4ea2-8a56-bd50f5099b85.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "454c2eed-8416-4ea2-8a56-bd50f5099b85.png",
+    "bytes": 185341,
+    "sha256": "23ce99b73722c972e38b66d4650ccde693d9f23b34043000e9f045ef2ad4fe11"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/11e1f36c-9a15-4565-8540-a3d4c1052481.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "11e1f36c-9a15-4565-8540-a3d4c1052481.png",
+    "bytes": 175745,
+    "sha256": "234b7666a21a0a72e3813439e90b0f5a705603a2239ac3911590e33fff816a3c"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/158a5738-66b8-4c24-86e2-7461bcd97aef.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "158a5738-66b8-4c24-86e2-7461bcd97aef.png",
+    "bytes": 179275,
+    "sha256": "e8a5b37f751f3a778f7ec39fadf2f883683175b94e1ecf6673ae3512ad05f43f"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/a0a061b4-01a6-4f20-993c-16949bcbddab.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "a0a061b4-01a6-4f20-993c-16949bcbddab.png",
+    "bytes": 173250,
+    "sha256": "5992c23e49d8bd30f9b8e0db16c2d88ee47fcc0a8a10202858e94b27afa691a5"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/6fe23872-2da7-451c-b2f8-ac407c9b87c2.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "6fe23872-2da7-451c-b2f8-ac407c9b87c2.png",
+    "bytes": 240211,
+    "sha256": "41cad5ecee0ec60830089102c8b158ca1bd71e62a0c7f96941015933cdda2fa1"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/c6ca19f3-d373-4df5-99e4-b961382739f1.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "c6ca19f3-d373-4df5-99e4-b961382739f1.png",
+    "bytes": 145228,
+    "sha256": "93f79489d520c7701e692f2f93e39c62b0f0433c350862b5d89021384d9a6a92"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/c92c821b-35b2-4578-9a7b-1e341c5cb6c6.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "c92c821b-35b2-4578-9a7b-1e341c5cb6c6.png",
+    "bytes": 498309,
+    "sha256": "bc77f5b516c93d8d9331cf26544abb04ef4b7cff9a616326b9d3c9a9d55bbd52"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/6a4d0aa9-0aca-47a6-9c99-f9b20be417ee.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "6a4d0aa9-0aca-47a6-9c99-f9b20be417ee.png",
+    "bytes": 174528,
+    "sha256": "87df99099085c2119378c531f3abf66fde91b2fefbbeee99ac654eca4941885e"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/045d78bd-5f5c-48e9-a40e-d2277b9d9eb6.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "045d78bd-5f5c-48e9-a40e-d2277b9d9eb6.png",
+    "bytes": 184180,
+    "sha256": "ca1f15b33a6fad7096aea7e1132cd7dabff12801c403ef0c98c6ee27c6096e06"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/df6d97c6-5b25-41d3-9e9e-cd4f9bced0a7.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "df6d97c6-5b25-41d3-9e9e-cd4f9bced0a7.png",
+    "bytes": 173365,
+    "sha256": "9da668ba8093ada59d05dd992179efe0ef9bc8617482d30cb0f1ebc8be2952e6"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/6543dccc-5a1c-4930-b70b-113759cba349.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "6543dccc-5a1c-4930-b70b-113759cba349.png",
+    "bytes": 165699,
+    "sha256": "3d8eb19a355883c82f183f65fabc814811dd2f06db9d6d9aec82c8be653b2a82"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/5964ad1d-ef92-454d-9c9d-b87306b1a51d.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "5964ad1d-ef92-454d-9c9d-b87306b1a51d.png",
+    "bytes": 178909,
+    "sha256": "2234b04e9b2d1b2280d58ab8f4af18eded327a24cf578654eb3d0eabb3162cb5"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/84cec907-9abd-4938-ae16-fb69cd302d35.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "84cec907-9abd-4938-ae16-fb69cd302d35.png",
+    "bytes": 199756,
+    "sha256": "3701077018fa30f728ad6a0c65d458970d78e94f655f9d297fa504896b36eccc"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/0bee8bd2-fc93-417b-84d7-a1372ccc643e.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "0bee8bd2-fc93-417b-84d7-a1372ccc643e.png",
+    "bytes": 200825,
+    "sha256": "601ff19ec90e5b0f61bb07068e50daca338926d90505dad357cda02d012f2ba7"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/0c96d5d0-41bb-4d06-bf9e-62c78991ac8e.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "0c96d5d0-41bb-4d06-bf9e-62c78991ac8e.png",
+    "bytes": 235612,
+    "sha256": "419531d361d30872889d0d459c4ea8e893e53edf10ce7db0b5419941747cb74a"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/6a6e741b-006f-4a74-a055-87e20edbb4e2.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "6a6e741b-006f-4a74-a055-87e20edbb4e2.png",
+    "bytes": 224094,
+    "sha256": "df084605c7207e5abaf43b764f34f896b8771332b53ba934c890f3f9e772b6e2"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/ab911a6f-f0f3-411e-91ff-82efe71f810d.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "ab911a6f-f0f3-411e-91ff-82efe71f810d.png",
+    "bytes": 207749,
+    "sha256": "1709246d5ab007d9ce0fbcf087b555a4cc28bd4c05d367da61d598489f606277"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/f8e81997-19b4-46a2-8050-15411f317be0.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "f8e81997-19b4-46a2-8050-15411f317be0.png",
+    "bytes": 229561,
+    "sha256": "86d8f3c9b08d0a9aed31f03a502b817d53090b13777381ce407c5f1972954281"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/af581aa6-818b-4d8b-8dba-7d8feeed1c4e.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "af581aa6-818b-4d8b-8dba-7d8feeed1c4e.png",
+    "bytes": 388263,
+    "sha256": "65ec7be6a9665c003fd3a0a2aff19b45d49daccdc93c1cef160848e539164291"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/6e1e6ca2-65cd-4dd6-a501-039bb25bf9eb.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "6e1e6ca2-65cd-4dd6-a501-039bb25bf9eb.png",
+    "bytes": 348315,
+    "sha256": "5b128f26c1c04ff7c29b7491253dd0fd3bc25643e5954351cdc8b9c374a2cc31"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/38085dfa-95e4-4905-bc20-6ea0ea2c3424.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "38085dfa-95e4-4905-bc20-6ea0ea2c3424.png",
+    "bytes": 443874,
+    "sha256": "1d2f7387c6c243367738dad39a6a84d6458dc0a85ad8b3656b90292d7f944cc4"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/30af681f-68b9-499e-a0eb-7de54eea9385.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "30af681f-68b9-499e-a0eb-7de54eea9385.png",
+    "bytes": 456764,
+    "sha256": "27db9f6342f5699c563493040be612297550b1d50db118df969b765ec71f208f"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/27b4ec1f-233a-4833-b170-481fcfbe463c.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "27b4ec1f-233a-4833-b170-481fcfbe463c.png",
+    "bytes": 384528,
+    "sha256": "1ca68f3ae883cefb10599332c207aef8b2a57f75c97be6aaf900f0db42900835"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/bc148285-5917-4cd8-a16f-99da1af4df06.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "bc148285-5917-4cd8-a16f-99da1af4df06.png",
+    "bytes": 418057,
+    "sha256": "786ceb21691c97998dc9f3fdce06f32247ba676487ec6430e94396f8748d225a"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/52861639-694b-4255-9d5a-f5b48cab0d36.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "52861639-694b-4255-9d5a-f5b48cab0d36.png",
+    "bytes": 234665,
+    "sha256": "68d6ab68bd3963c57ccbf02bbdc9460963731e6f18e7e6a7ef973be8425170f3"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/472e212b-53a3-40ba-a888-b98f198232e9.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "472e212b-53a3-40ba-a888-b98f198232e9.png",
+    "bytes": 123982,
+    "sha256": "2486354ec3a7c786a1dff30283204ebc24caa5359c1b46cb678b1a02cd867bcb"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/d20a33da-8840-4a16-a7b7-08f4f4758bb7.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "d20a33da-8840-4a16-a7b7-08f4f4758bb7.png",
+    "bytes": 146029,
+    "sha256": "9ee05d12ef77d27696f856aaaa440ba498f794aa059b220f19fc677b3e024a76"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/54c26d19-2c2c-4e21-bb74-590bdccaf421.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "54c26d19-2c2c-4e21-bb74-590bdccaf421.png",
+    "bytes": 139827,
+    "sha256": "373a8f6a8552b2cc7a09ae35c0bb17c9aafccf28b6eccc9436426985c98c5226"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/70913f32-c90d-40d7-b1b9-c12eb1350078.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "70913f32-c90d-40d7-b1b9-c12eb1350078.png",
+    "bytes": 183357,
+    "sha256": "37895c304e32f620f18e24c63dfecccdd752c58b4ea51497ba2a064221e19b59"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/1847efbc-bfc2-4aef-838a-19e67106d37e.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "1847efbc-bfc2-4aef-838a-19e67106d37e.png",
+    "bytes": 165485,
+    "sha256": "0f59713508c05c90341a495b14c2f0dfa3dc5e788941fdffa82849e1d5a527b4"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/7bdc55b9-22a6-4209-a18b-b733871c2fd9.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "7bdc55b9-22a6-4209-a18b-b733871c2fd9.png",
+    "bytes": 213739,
+    "sha256": "baf2fd34fc213bdfdfff7ea4848d37f7a20663ecda8cee3984c1649dc2a791cc"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/0aa64d48-a00a-4253-a10a-fb2babcbbafd.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "0aa64d48-a00a-4253-a10a-fb2babcbbafd.png",
+    "bytes": 194766,
+    "sha256": "de9f15a8051d00bb1310cf102921971d8e59e891d204e87bb8d2567f936afd32"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/31a5ead1-fa34-43c9-9417-6cf7ee0926c4.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "31a5ead1-fa34-43c9-9417-6cf7ee0926c4.png",
+    "bytes": 237184,
+    "sha256": "9c6a89708d3c37e8f9f19a7686480d2b1ac0794935fd7be90bdb67052be45331"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/c7708527-5314-4974-9718-43d8757e76d7.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "c7708527-5314-4974-9718-43d8757e76d7.png",
+    "bytes": 157209,
+    "sha256": "fe522f260e6aab2f372176d142d05c468f459b20c567f1b5295ff6f0437113b0"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/f7594f76-878e-4b21-b59b-3791b7f2d613.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "f7594f76-878e-4b21-b59b-3791b7f2d613.png",
+    "bytes": 160838,
+    "sha256": "88db740114773b566635f84657385fd09e89ef13913e171556e63f8893f12c13"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/d57303cd-efcd-4a55-9da6-6022b95141a2.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "d57303cd-efcd-4a55-9da6-6022b95141a2.png",
+    "bytes": 205493,
+    "sha256": "00a41525f2089dc155f81ffd18b3c66d6b9f5f2025fbbc6897167db3cab66056"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/3900578f-448d-4dc8-bf3f-4b8903f0f27c.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "3900578f-448d-4dc8-bf3f-4b8903f0f27c.png",
+    "bytes": 143857,
+    "sha256": "8d3cf043e6db509c575e735b18730e203cd7d708172fb8afa03bfb4cfd2131a2"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/3ee286af-74a0-4701-8694-098b8f9d024a.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "3ee286af-74a0-4701-8694-098b8f9d024a.png",
+    "bytes": 142842,
+    "sha256": "dc6ef79ba56d535bff9984633f768f95861542ce118fd86cf8c3726a509df2ce"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/e981d9c2-cfa9-4fb6-af63-766cf9153533.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "e981d9c2-cfa9-4fb6-af63-766cf9153533.png",
+    "bytes": 113134,
+    "sha256": "513bfeb1cf23768363f9d21195df81654ea8117220614adeaef19b362303a9bc"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/7cd14c15-589e-45a5-b232-87d810d8ac49.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "7cd14c15-589e-45a5-b232-87d810d8ac49.png",
+    "bytes": 157544,
+    "sha256": "efe2c1978c204590784a19c0c3bf7c161e018f6cc8e7a839b59f55e3b7131641"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/6cba0422-4c51-43f9-9331-364cb7cfe569.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "6cba0422-4c51-43f9-9331-364cb7cfe569.png",
+    "bytes": 129333,
+    "sha256": "cab24eea35489c7575e13a8078daca39968ed71d1b82c3f8dd3a13dc240928ca"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/de91bc7a-a636-4292-9948-5613133b3b83.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "de91bc7a-a636-4292-9948-5613133b3b83.png",
+    "bytes": 117518,
+    "sha256": "3f8cca2fc13129353ecdccf26b0da29f57455a5637069c67d9946d15d5dc09f8"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/785a3ba7-ae5e-4a44-9af1-f82d29c537a7.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "785a3ba7-ae5e-4a44-9af1-f82d29c537a7.png",
+    "bytes": 139812,
+    "sha256": "8d87b20f5978ea76752168e604820f35f22415535375877cb72b601ff42b45c6"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/c1bf27e9-e381-4985-8cf3-dce3aaedaf30.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "c1bf27e9-e381-4985-8cf3-dce3aaedaf30.png",
+    "bytes": 121145,
+    "sha256": "3026174e3eee369ccd94862e3ae5d0635600fb9269352fe0a6dcbed541e2165a"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/1a288c66-43fa-45e3-b19a-0ee951e01a99.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "1a288c66-43fa-45e3-b19a-0ee951e01a99.png",
+    "bytes": 94028,
+    "sha256": "5a7892da0eaaa6712103fcb18bb52a5eb1d6e45bba43d4f340cc47a234378964"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/545970d9-d434-4dfd-9d54-d9198c5d0526.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "545970d9-d434-4dfd-9d54-d9198c5d0526.png",
+    "bytes": 168224,
+    "sha256": "ee98983314dc6b88357ed7ecb6a96b073c6968bfeec43b0c8681ed3dfbc67d00"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/81d5d126-4d98-482d-8059-471b518e9ea9.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "81d5d126-4d98-482d-8059-471b518e9ea9.png",
+    "bytes": 212882,
+    "sha256": "cf9e6c4c31e789b7a945532c6c327c48b21303ee2d25ffd861c2a386eb2736ce"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/f376629a-ea6b-4d25-b632-c3579e645dd6.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "f376629a-ea6b-4d25-b632-c3579e645dd6.png",
+    "bytes": 124695,
+    "sha256": "b93c6324eda12c29e9c5dc4cfc8e4f29efd558e00f4dc7aba9ab3ef1a8c94cd5"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/c95e6022-26c5-4852-912a-f5066cfd1657.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "c95e6022-26c5-4852-912a-f5066cfd1657.png",
+    "bytes": 134934,
+    "sha256": "476209fb3a8a4b3e5d4ce1df78f7cc20d068460482fc03ef5a1c7fd4c7f2087d"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/49daeefe-2963-425b-8709-c7d0d6a6cf35.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "49daeefe-2963-425b-8709-c7d0d6a6cf35.png",
+    "bytes": 128817,
+    "sha256": "0fef036f5b09ebfd99138a1ebb5cb09672c1bc459d3c8b6ec0b5acc860e443de"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/0cfc2177-fd65-4f2f-99c4-b3b896931c45.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "0cfc2177-fd65-4f2f-99c4-b3b896931c45.png",
+    "bytes": 118297,
+    "sha256": "4cad10886a45bf3f0e0d5c5959af7530b5371e1a44dae76f2e21792d6a22e05d"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/a4f225be-88da-4343-84a7-4e59bf498b83.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "a4f225be-88da-4343-84a7-4e59bf498b83.png",
+    "bytes": 334385,
+    "sha256": "7b3762a5a9cc641f75bfe9f8dce31673c1d85697d862fe340998637c810561b1"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/c1b6b680-675b-4981-96b8-bd1aee2b9634.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "c1b6b680-675b-4981-96b8-bd1aee2b9634.png",
+    "bytes": 250873,
+    "sha256": "d8dc48a65b67c10d220a4b40eae69f746865ebd7298232623e4e410681f8a459"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/4c96f2ed-069c-45e0-8710-89a1cbcae636.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "4c96f2ed-069c-45e0-8710-89a1cbcae636.png",
+    "bytes": 272301,
+    "sha256": "026df9443b53f06d7ab7b3d1ec8229842442174fa75548998ea13b576c23c38c"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/77f68d6e-69ec-4da8-9a8b-ef212c2897b3.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "77f68d6e-69ec-4da8-9a8b-ef212c2897b3.png",
+    "bytes": 275535,
+    "sha256": "55d751fbe2cae878d82ec85d299309ed8e7b32497a0759200da36fa71526b91b"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/448c231f-ddcd-4168-9c7b-292faa49c3c8.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "448c231f-ddcd-4168-9c7b-292faa49c3c8.png",
+    "bytes": 275668,
+    "sha256": "d34456a6a382a693d7fd696304b8832b0851d40e994abfb9847841372703aa9d"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/adae8936-b896-4282-aacf-414afa3184c6.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "adae8936-b896-4282-aacf-414afa3184c6.png",
+    "bytes": 212673,
+    "sha256": "872ee31d036e4e9205978088c97f4c89396908ac714d9e3236ee24566a15e378"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/bb99e187-570f-4e03-9b88-f65c5f48103e.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "bb99e187-570f-4e03-9b88-f65c5f48103e.png",
+    "bytes": 212444,
+    "sha256": "47fd3efbb6af0dd7c2028ace0368942e42353d02b0e94220f02fecf0dbf3c511"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/b66f756c-842b-4a13-a1fc-af035426c67e.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "b66f756c-842b-4a13-a1fc-af035426c67e.png",
+    "bytes": 205248,
+    "sha256": "227361e2d2644bcefb70a2b3fb74fbe120e899b705fde2857f533d4df6b7ea3c"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/238bcc7a-6ab7-47f2-98ce-28d57e3367af.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "238bcc7a-6ab7-47f2-98ce-28d57e3367af.png",
+    "bytes": 271967,
+    "sha256": "d9614f11c1f551c94fbab795911cab6658e5627a0ae57119f270b191bc2216c5"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/16aa19bc-b06a-4970-bdd0-46c67455b323.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "16aa19bc-b06a-4970-bdd0-46c67455b323.png",
+    "bytes": 350001,
+    "sha256": "3a4cb507d12e6ab097c3b24535b1393c9b2022461355a284ffdd204d8fd0f5e0"
+  },
+  {
+    "local_path": "src/modules/wine-database/assets/images/43d6cfeb-393e-4314-a90a-b53db0a0d4b6.png",
+    "storage_bucket": "wine-bottles",
+    "storage_path": "43d6cfeb-393e-4314-a90a-b53db0a0d4b6.png",
+    "bytes": 208267,
+    "sha256": "6339111c141f8bb49a7b24e5d915880ba740ce7b9f84cadd41bc6342aaea3dbd"
+  }
+]

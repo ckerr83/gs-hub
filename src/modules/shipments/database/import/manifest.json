@@ -1,0 +1,176 @@
+{
+  "status": "prepared-only",
+  "revision": 1397,
+  "shipments": 12,
+  "snapshots": 16,
+  "files": [
+    {
+      "file": "001-shipment.sql",
+      "bytes": 28160,
+      "sha256": "7c790a792083da22d1a91f45249531d6a442194e62c064fb9e25826b2721925d",
+      "shipment": "Estampa · Chile",
+      "id": "estampa-review"
+    },
+    {
+      "file": "001-source-evidence.sql",
+      "bytes": 40719,
+      "sha256": "842c2bbe523ad486fd26dbb71a5fa3155e6b53cf04861b5ec49222b44e27e54b",
+      "shipment": "Estampa · Chile",
+      "id": "estampa-review"
+    },
+    {
+      "file": "002-shipment.sql",
+      "bytes": 10910,
+      "sha256": "fc69a35b0a876bd1cf7526ae6c42127553174c201bf53ce305bcf69d8a553cb9",
+      "shipment": "Borsao",
+      "id": "f063baca-ed50-4892-b306-b0aa425f733e"
+    },
+    {
+      "file": "002-source-evidence.sql",
+      "bytes": 14811,
+      "sha256": "bacce8002c96df4d9872bed4f587d6265e665604a314d4dad27a0b9448bb6f3e",
+      "shipment": "Borsao",
+      "id": "f063baca-ed50-4892-b306-b0aa425f733e"
+    },
+    {
+      "file": "003-shipment.sql",
+      "bytes": 6375,
+      "sha256": "6e2be5224fdc50a439a483e9daa72ca1b6a651311a332efa9c94bee46be129d0",
+      "shipment": "Lienert/Eisenstone",
+      "id": "7c326f9e-87db-406e-89be-5e0969eb41e4"
+    },
+    {
+      "file": "003-source-evidence.sql",
+      "bytes": 10557,
+      "sha256": "221041777fa354c1a09d4d29b2fc988196cc927205071f42553ef16978b111e8",
+      "shipment": "Lienert/Eisenstone",
+      "id": "7c326f9e-87db-406e-89be-5e0969eb41e4"
+    },
+    {
+      "file": "004-shipment.sql",
+      "bytes": 11144,
+      "sha256": "a9723ced0fb2524eda1ba0c46f2a0553c21444c5b6388da831f916e90a9b7da4",
+      "shipment": "Golding / Hatch",
+      "id": "b1fb4e55-8cfd-4302-87d7-d094240cb171"
+    },
+    {
+      "file": "004-source-evidence.sql",
+      "bytes": 19427,
+      "sha256": "3684e27cc54bd84cc0c98012381c2fe8f1a0ac30cedc9626ba6ad31bab192101",
+      "shipment": "Golding / Hatch",
+      "id": "b1fb4e55-8cfd-4302-87d7-d094240cb171"
+    },
+    {
+      "file": "005-shipment.sql",
+      "bytes": 4444,
+      "sha256": "60ef1460fc50ffe455f90b73f0caa5c651dfa27688453a8d18089369ab57c727",
+      "shipment": "Marlborist 27",
+      "id": "5665b68f-1371-4d72-97f2-86af2906e45e"
+    },
+    {
+      "file": "005-source-evidence.sql",
+      "bytes": 6965,
+      "sha256": "6cfd323dea45c9dc31364ad378a1721b16b07066cdf00654e106a6040a6dc0cf",
+      "shipment": "Marlborist 27",
+      "id": "5665b68f-1371-4d72-97f2-86af2906e45e"
+    },
+    {
+      "file": "006-shipment.sql",
+      "bytes": 10171,
+      "sha256": "4ed5f4e4cf7450543b1dcb6583303acb66269caa89fb5348f6d3fde0879706c0",
+      "shipment": "Spada August 26",
+      "id": "47aef809-690f-4b59-a6b5-c3dc16d4b823"
+    },
+    {
+      "file": "006-source-evidence.sql",
+      "bytes": 13483,
+      "sha256": "04a3cd94325f0d3a814055e965cac52cca075c03603ff6866fc2e5c32b07add0",
+      "shipment": "Spada August 26",
+      "id": "47aef809-690f-4b59-a6b5-c3dc16d4b823"
+    },
+    {
+      "file": "007-shipment.sql",
+      "bytes": 6923,
+      "sha256": "faf0a03291c5ceda72e0a3fa794364d999ff11320345d2434cfc04c63c96e060",
+      "shipment": "CMP BiB",
+      "id": "f20500ba-b066-4b85-827e-f8aecd8c7abd"
+    },
+    {
+      "file": "007-source-evidence.sql",
+      "bytes": 9255,
+      "sha256": "d3ad2899ac57dcdd0b145f3b8f5efa62ec6e3fd51d6bf77eada1bf6d1c758828",
+      "shipment": "CMP BiB",
+      "id": "f20500ba-b066-4b85-827e-f8aecd8c7abd"
+    },
+    {
+      "file": "008-shipment.sql",
+      "bytes": 17204,
+      "sha256": "d4869fb843478cdee1f2bf53f58eb0551a3b7521afd16399df02e9451ff3f5d2",
+      "shipment": "La Nascosta Jan 26",
+      "id": "7969567c-b1b4-4a0f-a74f-c8c80617b8ff"
+    },
+    {
+      "file": "008-source-evidence.sql",
+      "bytes": 22217,
+      "sha256": "76b09d28bae8e57c49ed9e8819c3b957727f052b5f2e4f3a4726ed4d3743a1bc",
+      "shipment": "La Nascosta Jan 26",
+      "id": "7969567c-b1b4-4a0f-a74f-c8c80617b8ff"
+    },
+    {
+      "file": "009-shipment.sql",
+      "bytes": 23691,
+      "sha256": "167545a158ddf093a5d9c76558008547cd90a4a24672f1ffb62899bef0b483fa",
+      "shipment": "Aaldering #1",
+      "id": "a7c06795-769c-4aba-aafc-ae7bf7e0bfc0"
+    },
+    {
+      "file": "009-source-evidence.sql",
+      "bytes": 30865,
+      "sha256": "8c3dbb33d871dd120ebeaba5983ff1f747988ac6cf184afcb071cf8a680ce414",
+      "shipment": "Aaldering #1",
+      "id": "a7c06795-769c-4aba-aafc-ae7bf7e0bfc0"
+    },
+    {
+      "file": "010-shipment.sql",
+      "bytes": 23628,
+      "sha256": "e3ebd9b273f9463981e27ed3933e43e77e7a89857b6a2746237f7fed95c36486",
+      "shipment": "Vaglio 2026",
+      "id": "3af10b90-d822-4e46-8096-9bbcec8d0aec"
+    },
+    {
+      "file": "010-source-evidence.sql",
+      "bytes": 31561,
+      "sha256": "8a54393b855ce5051dd5d83284d892f41c28f88b75ac78dbcbe2e07f9df2c70a",
+      "shipment": "Vaglio 2026",
+      "id": "3af10b90-d822-4e46-8096-9bbcec8d0aec"
+    },
+    {
+      "file": "011-shipment.sql",
+      "bytes": 18927,
+      "sha256": "f13e6664448aa563d249e9c64059f3cd587ed1b476cd1193d968ecbca4af5b53",
+      "shipment": "Chateau Carbonneau 2026",
+      "id": "c27d041a-4ed7-472c-85f5-804e6464f3a2"
+    },
+    {
+      "file": "011-source-evidence.sql",
+      "bytes": 25817,
+      "sha256": "227abdace958aacf7a8e690638796580b5cc7f756fe44977097c27c9191b30e5",
+      "shipment": "Chateau Carbonneau 2026",
+      "id": "c27d041a-4ed7-472c-85f5-804e6464f3a2"
+    },
+    {
+      "file": "012-shipment.sql",
+      "bytes": 24060,
+      "sha256": "0ffdfe93fefbf8d2ccb4e0dcbf7e7e1c5aa60f88384edb5b4bc047b98ba091f7",
+      "shipment": "Fetherston 26",
+      "id": "85d659ae-4f29-408d-a5b1-9b6a8f8654f5"
+    },
+    {
+      "file": "012-source-evidence.sql",
+      "bytes": 32615,
+      "sha256": "70ac86ed465b58ed9294395efafdf0dd6f4f45b68e253848fe14b21b7023bdd4",
+      "shipment": "Fetherston 26",
+      "id": "85d659ae-4f29-408d-a5b1-9b6a8f8654f5"
+    }
+  ]
+}

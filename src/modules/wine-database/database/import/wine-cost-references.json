@@ -1,0 +1,3694 @@
+[
+  {
+    "wine_id": "workbook-4",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 534.6845833333333,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Golding / Hatch assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 534.6845833333333,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Golding / Hatch assumptions",
+      "excise": 129.25
+    }
+  },
+  {
+    "wine_id": "workbook-4",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 594.1673999,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 4; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 594.1673999,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 4; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-5",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 540.8532291666667,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Golding / Hatch assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 540.8532291666667,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Golding / Hatch assumptions",
+      "excise": 134.5
+    }
+  },
+  {
+    "wine_id": "workbook-5",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 601.5023999,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 5; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 601.5023999,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 5; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-6",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 807.7059722222223,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Golding / Hatch assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 807.7059722222223,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Golding / Hatch assumptions",
+      "excise": 174.75
+    }
+  },
+  {
+    "wine_id": "workbook-6",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 891.3916999,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 6; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 891.3916999,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 6; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-7",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 807.7058333333333,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Golding / Hatch assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 807.7058333333333,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Golding / Hatch assumptions",
+      "excise": 174.75
+    }
+  },
+  {
+    "wine_id": "workbook-7",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 891.3916999,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 7; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 891.3916999,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 7; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-10",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 797.6534166666667,
+    "basis": "Projected",
+    "detail": "Current Registered Price · La Nascosta Jan 26 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 797.6534166666667,
+      "basis": "Projected",
+      "detail": "Current Registered Price · La Nascosta Jan 26 assumptions",
+      "excise": 165
+    }
+  },
+  {
+    "wine_id": "workbook-10",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 797.6534166666667,
+    "basis": "Actual",
+    "detail": "La Nascosta Jan 26 · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 797.6534166666667,
+      "basis": "Actual",
+      "date": "2026-03-23",
+      "detail": "La Nascosta Jan 26 · Actual 1",
+      "shipmentId": "7969567c-b1b4-4a0f-a74f-c8c80617b8ff",
+      "versionId": "7949d66e-5e14-4c7f-a14d-62869cecbcec"
+    }
+  },
+  {
+    "wine_id": "workbook-11",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 614.4795833333334,
+    "basis": "Projected",
+    "detail": "Current Registered Price · La Nascosta Jan 26 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 614.4795833333334,
+      "basis": "Projected",
+      "detail": "Current Registered Price · La Nascosta Jan 26 assumptions",
+      "excise": 162.5
+    }
+  },
+  {
+    "wine_id": "workbook-11",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 614.4795833333334,
+    "basis": "Actual",
+    "detail": "La Nascosta Jan 26 · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 614.4795833333334,
+      "basis": "Actual",
+      "date": "2026-03-23",
+      "detail": "La Nascosta Jan 26 · Actual 1",
+      "shipmentId": "7969567c-b1b4-4a0f-a74f-c8c80617b8ff",
+      "versionId": "7949d66e-5e14-4c7f-a14d-62869cecbcec"
+    }
+  },
+  {
+    "wine_id": "workbook-12",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 727.2746031746033,
+    "basis": "Projected",
+    "detail": "Current Registered Price · La Nascosta Jan 26 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 727.2746031746033,
+      "basis": "Projected",
+      "detail": "Current Registered Price · La Nascosta Jan 26 assumptions",
+      "excise": 170
+    }
+  },
+  {
+    "wine_id": "workbook-12",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 727.2746031746033,
+    "basis": "Actual",
+    "detail": "La Nascosta Jan 26 · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 727.2746031746033,
+      "basis": "Actual",
+      "date": "2026-03-23",
+      "detail": "La Nascosta Jan 26 · Actual 1",
+      "shipmentId": "7969567c-b1b4-4a0f-a74f-c8c80617b8ff",
+      "versionId": "7949d66e-5e14-4c7f-a14d-62869cecbcec"
+    }
+  },
+  {
+    "wine_id": "workbook-13",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 896.35,
+    "basis": "Projected",
+    "detail": "Current Registered Price · La Nascosta Jan 26 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 896.35,
+      "basis": "Projected",
+      "detail": "Current Registered Price · La Nascosta Jan 26 assumptions",
+      "excise": 190
+    }
+  },
+  {
+    "wine_id": "workbook-13",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 896.35,
+    "basis": "Actual",
+    "detail": "La Nascosta Jan 26 · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 896.35,
+      "basis": "Actual",
+      "date": "2026-03-23",
+      "detail": "La Nascosta Jan 26 · Actual 1",
+      "shipmentId": "7969567c-b1b4-4a0f-a74f-c8c80617b8ff",
+      "versionId": "7949d66e-5e14-4c7f-a14d-62869cecbcec"
+    }
+  },
+  {
+    "wine_id": "workbook-14",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 699.545925925926,
+    "basis": "Projected",
+    "detail": "Current Registered Price · La Nascosta Jan 26 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 699.545925925926,
+      "basis": "Projected",
+      "detail": "Current Registered Price · La Nascosta Jan 26 assumptions",
+      "excise": 170
+    }
+  },
+  {
+    "wine_id": "workbook-14",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 699.545925925926,
+    "basis": "Actual",
+    "detail": "La Nascosta Jan 26 · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 699.545925925926,
+      "basis": "Actual",
+      "date": "2026-03-23",
+      "detail": "La Nascosta Jan 26 · Actual 1",
+      "shipmentId": "7969567c-b1b4-4a0f-a74f-c8c80617b8ff",
+      "versionId": "7949d66e-5e14-4c7f-a14d-62869cecbcec"
+    }
+  },
+  {
+    "wine_id": "workbook-15",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 984.5877777777778,
+    "basis": "Projected",
+    "detail": "Current Registered Price · La Nascosta Jan 26 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 984.5877777777778,
+      "basis": "Projected",
+      "detail": "Current Registered Price · La Nascosta Jan 26 assumptions",
+      "excise": 182.5
+    }
+  },
+  {
+    "wine_id": "workbook-15",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 984.5877777777778,
+    "basis": "Actual",
+    "detail": "La Nascosta Jan 26 · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 984.5877777777778,
+      "basis": "Actual",
+      "date": "2026-03-23",
+      "detail": "La Nascosta Jan 26 · Actual 1",
+      "shipmentId": "7969567c-b1b4-4a0f-a74f-c8c80617b8ff",
+      "versionId": "7949d66e-5e14-4c7f-a14d-62869cecbcec"
+    }
+  },
+  {
+    "wine_id": "workbook-19",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 868.24034375,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Borsao assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 868.24034375,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Borsao assumptions",
+      "excise": 472.75
+    }
+  },
+  {
+    "wine_id": "workbook-19",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 923.78846875,
+    "basis": "Actual",
+    "detail": "Borsao · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 923.78846875,
+      "basis": "Actual",
+      "date": "2026-06-16",
+      "detail": "Borsao · Actual 1",
+      "shipmentId": "f063baca-ed50-4892-b306-b0aa425f733e",
+      "versionId": "53a3cf8c-e8c3-48f4-a693-d4d557a11b51"
+    }
+  },
+  {
+    "wine_id": "workbook-20",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 832.9903333333333,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Borsao assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 832.9903333333333,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Borsao assumptions",
+      "excise": 442.75
+    }
+  },
+  {
+    "wine_id": "workbook-20",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 728.9440833333333,
+    "basis": "Actual",
+    "detail": "Borsao · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 728.9440833333333,
+      "basis": "Actual",
+      "date": "2026-06-16",
+      "detail": "Borsao · Actual 1",
+      "shipmentId": "f063baca-ed50-4892-b306-b0aa425f733e",
+      "versionId": "53a3cf8c-e8c3-48f4-a693-d4d557a11b51"
+    }
+  },
+  {
+    "wine_id": "workbook-21",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 850.615375,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Borsao assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 850.615375,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Borsao assumptions",
+      "excise": 457.75
+    }
+  },
+  {
+    "wine_id": "workbook-21",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 958.1866249999999,
+    "basis": "Actual",
+    "detail": "Borsao · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 958.1866249999999,
+      "basis": "Actual",
+      "date": "2026-06-16",
+      "detail": "Borsao · Actual 1",
+      "shipmentId": "f063baca-ed50-4892-b306-b0aa425f733e",
+      "versionId": "53a3cf8c-e8c3-48f4-a693-d4d557a11b51"
+    }
+  },
+  {
+    "wine_id": "workbook-24",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 403.0365,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Chateau Carbonneau 2026 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 403.0365,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Chateau Carbonneau 2026 assumptions",
+      "excise": 128.25
+    }
+  },
+  {
+    "wine_id": "workbook-24",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 403.0365,
+    "basis": "Actual",
+    "detail": "Chateau Carbonneau 2026 · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 403.0365,
+      "basis": "Actual",
+      "date": "2026-07-13",
+      "detail": "Chateau Carbonneau 2026 · Actual 1",
+      "shipmentId": "c27d041a-4ed7-472c-85f5-804e6464f3a2",
+      "versionId": "d165c2f2-7ad4-4a8f-a284-7dba018bdca2"
+    }
+  },
+  {
+    "wine_id": "workbook-25",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 420.6615,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Chateau Carbonneau 2026 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 420.6615,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Chateau Carbonneau 2026 assumptions",
+      "excise": 143.25
+    }
+  },
+  {
+    "wine_id": "workbook-25",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 416.25525,
+    "basis": "Actual",
+    "detail": "Chateau Carbonneau 2026 · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 416.25525,
+      "basis": "Actual",
+      "date": "2026-07-13",
+      "detail": "Chateau Carbonneau 2026 · Actual 1",
+      "shipmentId": "c27d041a-4ed7-472c-85f5-804e6464f3a2",
+      "versionId": "d165c2f2-7ad4-4a8f-a284-7dba018bdca2"
+    }
+  },
+  {
+    "wine_id": "workbook-26",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 392.75541666666663,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Chateau Carbonneau 2026 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 392.75541666666663,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Chateau Carbonneau 2026 assumptions",
+      "excise": 119.5
+    }
+  },
+  {
+    "wine_id": "workbook-26",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 392.75541666666663,
+    "basis": "Actual",
+    "detail": "Chateau Carbonneau 2026 · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 392.75541666666663,
+      "basis": "Actual",
+      "date": "2026-07-13",
+      "detail": "Chateau Carbonneau 2026 · Actual 1",
+      "shipmentId": "c27d041a-4ed7-472c-85f5-804e6464f3a2",
+      "versionId": "d165c2f2-7ad4-4a8f-a284-7dba018bdca2"
+    }
+  },
+  {
+    "wine_id": "workbook-31",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 473.15736111111113,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Chateau Carbonneau 2026 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 473.15736111111113,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Chateau Carbonneau 2026 assumptions",
+      "excise": 129.5
+    }
+  },
+  {
+    "wine_id": "workbook-31",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 473.15736111111113,
+    "basis": "Actual",
+    "detail": "Chateau Carbonneau 2026 · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 473.15736111111113,
+      "basis": "Actual",
+      "date": "2026-07-13",
+      "detail": "Chateau Carbonneau 2026 · Actual 1",
+      "shipmentId": "c27d041a-4ed7-472c-85f5-804e6464f3a2",
+      "versionId": "d165c2f2-7ad4-4a8f-a284-7dba018bdca2"
+    }
+  },
+  {
+    "wine_id": "workbook-32",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 517.1722916666666,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Chateau Carbonneau 2026 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 517.1722916666666,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Chateau Carbonneau 2026 assumptions",
+      "excise": 134.5
+    }
+  },
+  {
+    "wine_id": "workbook-32",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 517.1722916666666,
+    "basis": "Actual",
+    "detail": "Chateau Carbonneau 2026 · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 517.1722916666666,
+      "basis": "Actual",
+      "date": "2026-07-13",
+      "detail": "Chateau Carbonneau 2026 · Actual 1",
+      "shipmentId": "c27d041a-4ed7-472c-85f5-804e6464f3a2",
+      "versionId": "d165c2f2-7ad4-4a8f-a284-7dba018bdca2"
+    }
+  },
+  {
+    "wine_id": "workbook-33",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 602.2885416666667,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Chateau Carbonneau 2026 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 602.2885416666667,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Chateau Carbonneau 2026 assumptions",
+      "excise": 158.25
+    }
+  },
+  {
+    "wine_id": "workbook-33",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 602.2885416666667,
+    "basis": "Actual",
+    "detail": "Chateau Carbonneau 2026 · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 602.2885416666667,
+      "basis": "Actual",
+      "date": "2026-07-13",
+      "detail": "Chateau Carbonneau 2026 · Actual 1",
+      "shipmentId": "c27d041a-4ed7-472c-85f5-804e6464f3a2",
+      "versionId": "d165c2f2-7ad4-4a8f-a284-7dba018bdca2"
+    }
+  },
+  {
+    "wine_id": "workbook-34",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 593.4759375,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Chateau Carbonneau 2026 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 593.4759375,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Chateau Carbonneau 2026 assumptions",
+      "excise": 150.75
+    }
+  },
+  {
+    "wine_id": "workbook-34",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 593.4759375,
+    "basis": "Actual",
+    "detail": "Chateau Carbonneau 2026 · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 593.4759375,
+      "basis": "Actual",
+      "date": "2026-07-13",
+      "detail": "Chateau Carbonneau 2026 · Actual 1",
+      "shipmentId": "c27d041a-4ed7-472c-85f5-804e6464f3a2",
+      "versionId": "d165c2f2-7ad4-4a8f-a284-7dba018bdca2"
+    }
+  },
+  {
+    "wine_id": "workbook-37",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 395.68976190476195,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Vaglio 2026 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 395.68976190476195,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Vaglio 2026 assumptions",
+      "excise": 148.25
+    }
+  },
+  {
+    "wine_id": "workbook-37",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 391.28351190476195,
+    "basis": "Actual",
+    "detail": "Vaglio 2026 · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 391.28351190476195,
+      "basis": "Actual",
+      "date": "2026-05-14",
+      "detail": "Vaglio 2026 · Actual 1",
+      "shipmentId": "3af10b90-d822-4e46-8096-9bbcec8d0aec",
+      "versionId": "2e65a92e-cbc6-4f83-aef0-b8bea10e2e4f"
+    }
+  },
+  {
+    "wine_id": "workbook-38",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 374.6478333333333,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Vaglio 2026 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 374.6478333333333,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Vaglio 2026 assumptions",
+      "excise": 140.75
+    }
+  },
+  {
+    "wine_id": "workbook-38",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 371.7103333333333,
+    "basis": "Actual",
+    "detail": "Vaglio 2026 · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 371.7103333333333,
+      "basis": "Actual",
+      "date": "2026-05-14",
+      "detail": "Vaglio 2026 · Actual 1",
+      "shipmentId": "3af10b90-d822-4e46-8096-9bbcec8d0aec",
+      "versionId": "2e65a92e-cbc6-4f83-aef0-b8bea10e2e4f"
+    }
+  },
+  {
+    "wine_id": "workbook-39",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 370.2411666666667,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Vaglio 2026 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 370.2411666666667,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Vaglio 2026 assumptions",
+      "excise": 137
+    }
+  },
+  {
+    "wine_id": "workbook-39",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 366.7161666666667,
+    "basis": "Actual",
+    "detail": "Vaglio 2026 · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 366.7161666666667,
+      "basis": "Actual",
+      "date": "2026-05-14",
+      "detail": "Vaglio 2026 · Actual 1",
+      "shipmentId": "3af10b90-d822-4e46-8096-9bbcec8d0aec",
+      "versionId": "2e65a92e-cbc6-4f83-aef0-b8bea10e2e4f"
+    }
+  },
+  {
+    "wine_id": "workbook-40",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 460.36583333333334,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Vaglio 2026 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 460.36583333333334,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Vaglio 2026 assumptions",
+      "excise": 151.5
+    }
+  },
+  {
+    "wine_id": "workbook-40",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 460.36583333333334,
+    "basis": "Actual",
+    "detail": "Vaglio 2026 · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 460.36583333333334,
+      "basis": "Actual",
+      "date": "2026-05-14",
+      "detail": "Vaglio 2026 · Actual 1",
+      "shipmentId": "3af10b90-d822-4e46-8096-9bbcec8d0aec",
+      "versionId": "2e65a92e-cbc6-4f83-aef0-b8bea10e2e4f"
+    }
+  },
+  {
+    "wine_id": "workbook-41",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 460.36583333333334,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Vaglio 2026 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 460.36583333333334,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Vaglio 2026 assumptions",
+      "excise": 151.5
+    }
+  },
+  {
+    "wine_id": "workbook-41",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 460.36583333333334,
+    "basis": "Actual",
+    "detail": "Vaglio 2026 · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 460.36583333333334,
+      "basis": "Actual",
+      "date": "2026-05-14",
+      "detail": "Vaglio 2026 · Actual 1",
+      "shipmentId": "3af10b90-d822-4e46-8096-9bbcec8d0aec",
+      "versionId": "2e65a92e-cbc6-4f83-aef0-b8bea10e2e4f"
+    }
+  },
+  {
+    "wine_id": "workbook-42",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 464.77208333333334,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Vaglio 2026 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 464.77208333333334,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Vaglio 2026 assumptions",
+      "excise": 155.25
+    }
+  },
+  {
+    "wine_id": "workbook-42",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 464.77208333333334,
+    "basis": "Actual",
+    "detail": "Vaglio 2026 · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 464.77208333333334,
+      "basis": "Actual",
+      "date": "2026-05-14",
+      "detail": "Vaglio 2026 · Actual 1",
+      "shipmentId": "3af10b90-d822-4e46-8096-9bbcec8d0aec",
+      "versionId": "2e65a92e-cbc6-4f83-aef0-b8bea10e2e4f"
+    }
+  },
+  {
+    "wine_id": "workbook-43",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 464.77197916666665,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Vaglio 2026 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 464.77197916666665,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Vaglio 2026 assumptions",
+      "excise": 155.25
+    }
+  },
+  {
+    "wine_id": "workbook-43",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 464.77197916666665,
+    "basis": "Actual",
+    "detail": "Vaglio 2026 · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 464.77197916666665,
+      "basis": "Actual",
+      "date": "2026-05-14",
+      "detail": "Vaglio 2026 · Actual 1",
+      "shipmentId": "3af10b90-d822-4e46-8096-9bbcec8d0aec",
+      "versionId": "2e65a92e-cbc6-4f83-aef0-b8bea10e2e4f"
+    }
+  },
+  {
+    "wine_id": "workbook-44",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 464.77197916666665,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Vaglio 2026 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 464.77197916666665,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Vaglio 2026 assumptions",
+      "excise": 155.25
+    }
+  },
+  {
+    "wine_id": "workbook-44",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 464.77197916666665,
+    "basis": "Actual",
+    "detail": "Vaglio 2026 · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 464.77197916666665,
+      "basis": "Actual",
+      "date": "2026-05-14",
+      "detail": "Vaglio 2026 · Actual 1",
+      "shipmentId": "3af10b90-d822-4e46-8096-9bbcec8d0aec",
+      "versionId": "2e65a92e-cbc6-4f83-aef0-b8bea10e2e4f"
+    }
+  },
+  {
+    "wine_id": "workbook-45",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 796.8041666666667,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Vaglio 2026 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 796.8041666666667,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Vaglio 2026 assumptions",
+      "excise": 191.75
+    }
+  },
+  {
+    "wine_id": "workbook-45",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 796.8041666666667,
+    "basis": "Actual",
+    "detail": "Vaglio 2026 · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 796.8041666666667,
+      "basis": "Actual",
+      "date": "2026-05-14",
+      "detail": "Vaglio 2026 · Actual 1",
+      "shipmentId": "3af10b90-d822-4e46-8096-9bbcec8d0aec",
+      "versionId": "2e65a92e-cbc6-4f83-aef0-b8bea10e2e4f"
+    }
+  },
+  {
+    "wine_id": "workbook-51",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 455.7402083333333,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Fetherston 26 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 455.7402083333333,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Fetherston 26 assumptions",
+      "excise": 140.25
+    }
+  },
+  {
+    "wine_id": "workbook-51",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 447.5152083333333,
+    "basis": "Forecast",
+    "detail": "Fetherston 26 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 447.5152083333333,
+      "basis": "Forecast",
+      "date": "2026-11-07T17:53:49.845Z",
+      "detail": "Fetherston 26 · Order forecast 1",
+      "shipmentId": "85d659ae-4f29-408d-a5b1-9b6a8f8654f5",
+      "versionId": "3f45e242-e9b0-417a-9e34-30f7ba0f7272"
+    }
+  },
+  {
+    "wine_id": "workbook-52",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 500.42486111111106,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Fetherston 26 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 500.42486111111106,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Fetherston 26 assumptions",
+      "excise": 147.75
+    }
+  },
+  {
+    "wine_id": "workbook-52",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 486.9123611111111,
+    "basis": "Forecast",
+    "detail": "Fetherston 26 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 486.9123611111111,
+      "basis": "Forecast",
+      "date": "2026-11-07T17:53:49.845Z",
+      "detail": "Fetherston 26 · Order forecast 1",
+      "shipmentId": "85d659ae-4f29-408d-a5b1-9b6a8f8654f5",
+      "versionId": "3f45e242-e9b0-417a-9e34-30f7ba0f7272"
+    }
+  },
+  {
+    "wine_id": "workbook-53",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 455.7402083333333,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Fetherston 26 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 455.7402083333333,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Fetherston 26 assumptions",
+      "excise": 140.25
+    }
+  },
+  {
+    "wine_id": "workbook-53",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 447.5152083333333,
+    "basis": "Forecast",
+    "detail": "Fetherston 26 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 447.5152083333333,
+      "basis": "Forecast",
+      "date": "2026-11-07T17:53:49.845Z",
+      "detail": "Fetherston 26 · Order forecast 1",
+      "shipmentId": "85d659ae-4f29-408d-a5b1-9b6a8f8654f5",
+      "versionId": "3f45e242-e9b0-417a-9e34-30f7ba0f7272"
+    }
+  },
+  {
+    "wine_id": "workbook-54",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 503.06851851851854,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Fetherston 26 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 503.06851851851854,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Fetherston 26 assumptions",
+      "excise": 150
+    }
+  },
+  {
+    "wine_id": "workbook-54",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 489.55601851851856,
+    "basis": "Forecast",
+    "detail": "Fetherston 26 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 489.55601851851856,
+      "basis": "Forecast",
+      "date": "2026-11-07T17:53:49.845Z",
+      "detail": "Fetherston 26 · Order forecast 1",
+      "shipmentId": "85d659ae-4f29-408d-a5b1-9b6a8f8654f5",
+      "versionId": "3f45e242-e9b0-417a-9e34-30f7ba0f7272"
+    }
+  },
+  {
+    "wine_id": "workbook-55",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 458.3840277777778,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Fetherston 26 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 458.3840277777778,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Fetherston 26 assumptions",
+      "excise": 142.5
+    }
+  },
+  {
+    "wine_id": "workbook-55",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 450.1590277777778,
+    "basis": "Forecast",
+    "detail": "Fetherston 26 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 450.1590277777778,
+      "basis": "Forecast",
+      "date": "2026-11-07T17:53:49.845Z",
+      "detail": "Fetherston 26 · Order forecast 1",
+      "shipmentId": "85d659ae-4f29-408d-a5b1-9b6a8f8654f5",
+      "versionId": "3f45e242-e9b0-417a-9e34-30f7ba0f7272"
+    }
+  },
+  {
+    "wine_id": "workbook-56",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 501.30601851851856,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Fetherston 26 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 501.30601851851856,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Fetherston 26 assumptions",
+      "excise": 148.5
+    }
+  },
+  {
+    "wine_id": "workbook-56",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 487.7935185185185,
+    "basis": "Forecast",
+    "detail": "Fetherston 26 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 487.7935185185185,
+      "basis": "Forecast",
+      "date": "2026-11-07T17:53:49.845Z",
+      "detail": "Fetherston 26 · Order forecast 1",
+      "shipmentId": "85d659ae-4f29-408d-a5b1-9b6a8f8654f5",
+      "versionId": "3f45e242-e9b0-417a-9e34-30f7ba0f7272"
+    }
+  },
+  {
+    "wine_id": "workbook-57",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 602.1484848484849,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Fetherston 26 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 602.1484848484849,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Fetherston 26 assumptions",
+      "excise": 158
+    }
+  },
+  {
+    "wine_id": "workbook-57",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 589.5172727272727,
+    "basis": "Forecast",
+    "detail": "Fetherston 26 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 589.5172727272727,
+      "basis": "Forecast",
+      "date": "2026-11-07T17:53:49.845Z",
+      "detail": "Fetherston 26 · Order forecast 1",
+      "shipmentId": "85d659ae-4f29-408d-a5b1-9b6a8f8654f5",
+      "versionId": "3f45e242-e9b0-417a-9e34-30f7ba0f7272"
+    }
+  },
+  {
+    "wine_id": "workbook-58",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 603.9110714285714,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Fetherston 26 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 603.9110714285714,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Fetherston 26 assumptions",
+      "excise": 159.5
+    }
+  },
+  {
+    "wine_id": "workbook-58",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 591.279880952381,
+    "basis": "Forecast",
+    "detail": "Fetherston 26 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 591.279880952381,
+      "basis": "Forecast",
+      "date": "2026-11-07T17:53:49.845Z",
+      "detail": "Fetherston 26 · Order forecast 1",
+      "shipmentId": "85d659ae-4f29-408d-a5b1-9b6a8f8654f5",
+      "versionId": "3f45e242-e9b0-417a-9e34-30f7ba0f7272"
+    }
+  },
+  {
+    "wine_id": "estampa-10",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 1225.121111111111,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Estampa · Chile assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 1225.121111111111,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Estampa · Chile assumptions",
+      "excise": 201.5
+    }
+  },
+  {
+    "wine_id": "estampa-10",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 1225.121111111111,
+    "basis": "Actual",
+    "detail": "Estampa · Chile · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 1225.121111111111,
+      "basis": "Actual",
+      "date": "2026-08-29",
+      "detail": "Estampa · Chile · Actual 1",
+      "shipmentId": "estampa-review",
+      "versionId": "7f10c682-cfa4-4756-a803-ae2ca80d2419"
+    }
+  },
+  {
+    "wine_id": "estampa-9",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 604.2694444444445,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Estampa · Chile assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 604.2694444444445,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Estampa · Chile assumptions",
+      "excise": 149.5
+    }
+  },
+  {
+    "wine_id": "estampa-9",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 604.2694444444445,
+    "basis": "Actual",
+    "detail": "Estampa · Chile · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 604.2694444444445,
+      "basis": "Actual",
+      "date": "2026-08-29",
+      "detail": "Estampa · Chile · Actual 1",
+      "shipmentId": "estampa-review",
+      "versionId": "7f10c682-cfa4-4756-a803-ae2ca80d2419"
+    }
+  },
+  {
+    "wine_id": "estampa-8",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 604.8572222222223,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Estampa · Chile assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 604.8572222222223,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Estampa · Chile assumptions",
+      "excise": 150
+    }
+  },
+  {
+    "wine_id": "estampa-8",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 604.8572222222223,
+    "basis": "Actual",
+    "detail": "Estampa · Chile · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 604.8572222222223,
+      "basis": "Actual",
+      "date": "2026-08-29",
+      "detail": "Estampa · Chile · Actual 1",
+      "shipmentId": "estampa-review",
+      "versionId": "7f10c682-cfa4-4756-a803-ae2ca80d2419"
+    }
+  },
+  {
+    "wine_id": "estampa-6",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 464.12825,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Estampa · Chile assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 464.12825,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Estampa · Chile assumptions",
+      "excise": 138.5
+    }
+  },
+  {
+    "wine_id": "estampa-6",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 464.12825,
+    "basis": "Actual",
+    "detail": "Estampa · Chile · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 464.12825,
+      "basis": "Actual",
+      "date": "2026-08-29",
+      "detail": "Estampa · Chile · Actual 1",
+      "shipmentId": "estampa-review",
+      "versionId": "7f10c682-cfa4-4756-a803-ae2ca80d2419"
+    }
+  },
+  {
+    "wine_id": "estampa-7",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 478.02523809523814,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Estampa · Chile assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 478.02523809523814,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Estampa · Chile assumptions",
+      "excise": 139.5
+    }
+  },
+  {
+    "wine_id": "estampa-7",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 478.02523809523814,
+    "basis": "Actual",
+    "detail": "Estampa · Chile · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 478.02523809523814,
+      "basis": "Actual",
+      "date": "2026-08-29",
+      "detail": "Estampa · Chile · Actual 1",
+      "shipmentId": "estampa-review",
+      "versionId": "7f10c682-cfa4-4756-a803-ae2ca80d2419"
+    }
+  },
+  {
+    "wine_id": "estampa-11",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 464.80619047619047,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Estampa · Chile assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 464.80619047619047,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Estampa · Chile assumptions",
+      "excise": 128.25
+    }
+  },
+  {
+    "wine_id": "estampa-11",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 464.8202380952381,
+    "basis": "Actual",
+    "detail": "Estampa · Chile · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 464.8202380952381,
+      "basis": "Actual",
+      "date": "2026-08-29",
+      "detail": "Estampa · Chile · Actual 1",
+      "shipmentId": "estampa-review",
+      "versionId": "7f10c682-cfa4-4756-a803-ae2ca80d2419"
+    }
+  },
+  {
+    "wine_id": "estampa-5",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 570.0138333333333,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Estampa · Chile assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 570.0138333333333,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Estampa · Chile assumptions",
+      "excise": 142
+    }
+  },
+  {
+    "wine_id": "estampa-5",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 570.0138333333333,
+    "basis": "Actual",
+    "detail": "Estampa · Chile · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 570.0138333333333,
+      "basis": "Actual",
+      "date": "2026-08-29",
+      "detail": "Estampa · Chile · Actual 1",
+      "shipmentId": "estampa-review",
+      "versionId": "7f10c682-cfa4-4756-a803-ae2ca80d2419"
+    }
+  },
+  {
+    "wine_id": "estampa-2",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 565.6078333333334,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Estampa · Chile assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 565.6078333333334,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Estampa · Chile assumptions",
+      "excise": 138.25
+    }
+  },
+  {
+    "wine_id": "estampa-2",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 565.6078333333334,
+    "basis": "Actual",
+    "detail": "Estampa · Chile · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 565.6078333333334,
+      "basis": "Actual",
+      "date": "2026-08-29",
+      "detail": "Estampa · Chile · Actual 1",
+      "shipmentId": "estampa-review",
+      "versionId": "7f10c682-cfa4-4756-a803-ae2ca80d2419"
+    }
+  },
+  {
+    "wine_id": "estampa-4",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 578.8264999999999,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Estampa · Chile assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 578.8264999999999,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Estampa · Chile assumptions",
+      "excise": 149.5
+    }
+  },
+  {
+    "wine_id": "estampa-4",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 578.8264999999999,
+    "basis": "Actual",
+    "detail": "Estampa · Chile · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 578.8264999999999,
+      "basis": "Actual",
+      "date": "2026-08-29",
+      "detail": "Estampa · Chile · Actual 1",
+      "shipmentId": "estampa-review",
+      "versionId": "7f10c682-cfa4-4756-a803-ae2ca80d2419"
+    }
+  },
+  {
+    "wine_id": "estampa-3",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 574.4201666666667,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Estampa · Chile assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 574.4201666666667,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Estampa · Chile assumptions",
+      "excise": 145.75
+    }
+  },
+  {
+    "wine_id": "estampa-3",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 574.4203333333334,
+    "basis": "Actual",
+    "detail": "Estampa · Chile · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 574.4203333333334,
+      "basis": "Actual",
+      "date": "2026-08-29",
+      "detail": "Estampa · Chile · Actual 1",
+      "shipmentId": "estampa-review",
+      "versionId": "7f10c682-cfa4-4756-a803-ae2ca80d2419"
+    }
+  },
+  {
+    "wine_id": "estampa-1",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 460.897,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Estampa · Chile assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 460.897,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Estampa · Chile assumptions",
+      "excise": 135.75
+    }
+  },
+  {
+    "wine_id": "estampa-1",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 460.897,
+    "basis": "Actual",
+    "detail": "Estampa · Chile · Actual 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 460.897,
+      "basis": "Actual",
+      "date": "2026-08-29",
+      "detail": "Estampa · Chile · Actual 1",
+      "shipmentId": "estampa-review",
+      "versionId": "7f10c682-cfa4-4756-a803-ae2ca80d2419"
+    }
+  },
+  {
+    "wine_id": "workbook-74",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 1123.861275,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 74; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 1123.861275,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 74; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-74",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 1123.861275,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 74; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 1123.861275,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 74; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-75",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 523.240641025641,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Lienert/Eisenstone assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 523.240641025641,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Lienert/Eisenstone assumptions",
+      "excise": 152.25
+    }
+  },
+  {
+    "wine_id": "workbook-75",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 534.2444134,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 75; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 534.2444134,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 75; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-76",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 528.0694134,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 76; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 528.0694134,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 76; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-76",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 528.0694134,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 76; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 528.0694134,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 76; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-77",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 527.1944134,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 77; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 527.1944134,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 77; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-77",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 527.1944134,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 77; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 527.1944134,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 77; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-78",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 508.6794134,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 78; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 508.6794134,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 78; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-78",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 508.6794134,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 78; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 508.6794134,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 78; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-79",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 394.4962914,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 79; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 394.4962914,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 79; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-79",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 394.4962914,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 79; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 394.4962914,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 79; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-80",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 389.3403333333333,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Lienert/Eisenstone assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 389.3403333333333,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Lienert/Eisenstone assumptions",
+      "excise": 144.5
+    }
+  },
+  {
+    "wine_id": "workbook-80",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 398.8912914,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 80; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 398.8912914,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 80; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-82",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 370.8342592592592,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Lienert/Eisenstone assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 370.8342592592592,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Lienert/Eisenstone assumptions",
+      "excise": 128.75
+    }
+  },
+  {
+    "wine_id": "workbook-82",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 380.3962914,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 82; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 380.3962914,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 82; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-83",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 390.92672413793105,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Lienert/Eisenstone assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 390.92672413793105,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Lienert/Eisenstone assumptions",
+      "excise": 145.85
+    }
+  },
+  {
+    "wine_id": "workbook-83",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 395.0862914,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 83; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 395.0862914,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 83; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-84",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 395.0862914,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 84; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 395.0862914,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 84; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-84",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 395.0862914,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 84; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 395.0862914,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 84; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-86",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 374.8012914,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 86; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 374.8012914,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 86; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-86",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 374.8012914,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 86; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 374.8012914,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 86; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-87",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 386.5204444444444,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Lienert/Eisenstone assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 386.5204444444444,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Lienert/Eisenstone assumptions",
+      "excise": 142.1
+    }
+  },
+  {
+    "wine_id": "workbook-87",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 390.6612914,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 87; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 390.6612914,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 87; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-88",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 390.92677777777783,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Lienert/Eisenstone assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 390.92677777777783,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Lienert/Eisenstone assumptions",
+      "excise": 145.85
+    }
+  },
+  {
+    "wine_id": "workbook-88",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 395.0862914,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 88; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 395.0862914,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 88; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-91",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 301.3276577,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 91; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 301.3276577,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 91; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-91",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 301.3276577,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 91; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 301.3276577,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 91; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-92",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 283.4763642,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 92; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 283.4763642,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 92; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-92",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 283.4763642,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 92; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 283.4763642,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 92; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-124",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 578.4107642,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 124; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 578.4107642,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 124; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-124",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 578.4107642,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 124; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 578.4107642,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 124; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-125",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 578.4107642,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 125; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 578.4107642,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 125; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-125",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 578.4107642,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 125; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 578.4107642,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 125; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-126",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 568.4207642,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 126; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 568.4207642,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 126; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-126",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 568.4207642,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 126; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 568.4207642,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 126; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-127",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 797.5505642,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 127; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 797.5505642,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 127; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-127",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 797.5505642,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 127; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 797.5505642,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 127; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-128",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 1095.524564,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 128; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 1095.524564,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 128; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-128",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 1095.524564,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 128; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 1095.524564,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 128; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-129",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 444.3249642,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 129; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 444.3249642,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 129; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-129",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 444.3249642,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 129; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 444.3249642,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 129; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-130",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 347.1178842,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 130; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 347.1178842,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 130; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-130",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 347.1178842,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 130; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 347.1178842,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 130; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-133",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 465.3591642,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 133; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 465.3591642,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 133; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-133",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 465.3591642,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 133; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 465.3591642,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 133; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-134",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 403.2977642,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 134; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 403.2977642,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 134; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-134",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 403.2977642,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 134; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 403.2977642,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 134; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-135",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 461.0159642,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 135; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 461.0159642,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 135; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-135",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 461.0159642,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 135; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 461.0159642,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 135; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-136",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 678.3609642,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 136; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 678.3609642,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 136; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-136",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 678.3609642,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 136; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 678.3609642,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 136; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-138",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 432.4583642,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 138; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 432.4583642,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 138; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-138",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 432.4583642,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 138; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 432.4583642,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 138; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-172",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": null,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Aaldering #1 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": null,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Aaldering #1 assumptions",
+      "excise": null
+    }
+  },
+  {
+    "wine_id": "workbook-172",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 443.03866666666664,
+    "basis": "Forecast",
+    "detail": "Aaldering #1 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 443.03866666666664,
+      "basis": "Forecast",
+      "date": "2026-10-21T14:42:04.080Z",
+      "detail": "Aaldering #1 · Order forecast 1",
+      "shipmentId": "a7c06795-769c-4aba-aafc-ae7bf7e0bfc0",
+      "versionId": "af9fa5cc-db60-401e-a7c8-c89d7a3ccb04"
+    }
+  },
+  {
+    "wine_id": "workbook-173",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": null,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Aaldering #1 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": null,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Aaldering #1 assumptions",
+      "excise": null
+    }
+  },
+  {
+    "wine_id": "workbook-173",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 447.445,
+    "basis": "Forecast",
+    "detail": "Aaldering #1 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 447.445,
+      "basis": "Forecast",
+      "date": "2026-10-21T14:42:04.080Z",
+      "detail": "Aaldering #1 · Order forecast 1",
+      "shipmentId": "a7c06795-769c-4aba-aafc-ae7bf7e0bfc0",
+      "versionId": "af9fa5cc-db60-401e-a7c8-c89d7a3ccb04"
+    }
+  },
+  {
+    "wine_id": "workbook-174",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": null,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Aaldering #1 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": null,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Aaldering #1 assumptions",
+      "excise": null
+    }
+  },
+  {
+    "wine_id": "workbook-174",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 615.812619047619,
+    "basis": "Forecast",
+    "detail": "Aaldering #1 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 615.812619047619,
+      "basis": "Forecast",
+      "date": "2026-10-21T14:42:04.080Z",
+      "detail": "Aaldering #1 · Order forecast 1",
+      "shipmentId": "a7c06795-769c-4aba-aafc-ae7bf7e0bfc0",
+      "versionId": "af9fa5cc-db60-401e-a7c8-c89d7a3ccb04"
+    }
+  },
+  {
+    "wine_id": "workbook-176",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": null,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Aaldering #1 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": null,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Aaldering #1 assumptions",
+      "excise": null
+    }
+  },
+  {
+    "wine_id": "workbook-176",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 642.915,
+    "basis": "Forecast",
+    "detail": "Aaldering #1 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 642.915,
+      "basis": "Forecast",
+      "date": "2026-10-21T14:42:04.080Z",
+      "detail": "Aaldering #1 · Order forecast 1",
+      "shipmentId": "a7c06795-769c-4aba-aafc-ae7bf7e0bfc0",
+      "versionId": "af9fa5cc-db60-401e-a7c8-c89d7a3ccb04"
+    }
+  },
+  {
+    "wine_id": "workbook-177",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": null,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Aaldering #1 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": null,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Aaldering #1 assumptions",
+      "excise": null
+    }
+  },
+  {
+    "wine_id": "workbook-177",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 686.350625,
+    "basis": "Forecast",
+    "detail": "Aaldering #1 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 686.350625,
+      "basis": "Forecast",
+      "date": "2026-10-21T14:42:04.080Z",
+      "detail": "Aaldering #1 · Order forecast 1",
+      "shipmentId": "a7c06795-769c-4aba-aafc-ae7bf7e0bfc0",
+      "versionId": "af9fa5cc-db60-401e-a7c8-c89d7a3ccb04"
+    }
+  },
+  {
+    "wine_id": "workbook-179",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": null,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Aaldering #1 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": null,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Aaldering #1 assumptions",
+      "excise": null
+    }
+  },
+  {
+    "wine_id": "workbook-179",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 690.756888888889,
+    "basis": "Forecast",
+    "detail": "Aaldering #1 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 690.756888888889,
+      "basis": "Forecast",
+      "date": "2026-10-21T14:42:04.080Z",
+      "detail": "Aaldering #1 · Order forecast 1",
+      "shipmentId": "a7c06795-769c-4aba-aafc-ae7bf7e0bfc0",
+      "versionId": "af9fa5cc-db60-401e-a7c8-c89d7a3ccb04"
+    }
+  },
+  {
+    "wine_id": "workbook-182",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": null,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Aaldering #1 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": null,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Aaldering #1 assumptions",
+      "excise": null
+    }
+  },
+  {
+    "wine_id": "workbook-182",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 356.2409523809524,
+    "basis": "Forecast",
+    "detail": "Aaldering #1 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 356.2409523809524,
+      "basis": "Forecast",
+      "date": "2026-10-21T14:42:04.080Z",
+      "detail": "Aaldering #1 · Order forecast 1",
+      "shipmentId": "a7c06795-769c-4aba-aafc-ae7bf7e0bfc0",
+      "versionId": "af9fa5cc-db60-401e-a7c8-c89d7a3ccb04"
+    }
+  },
+  {
+    "wine_id": "workbook-184",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": null,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Aaldering #1 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": null,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Aaldering #1 assumptions",
+      "excise": null
+    }
+  },
+  {
+    "wine_id": "workbook-184",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 486.31486666666666,
+    "basis": "Forecast",
+    "detail": "Aaldering #1 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 486.31486666666666,
+      "basis": "Forecast",
+      "date": "2026-10-21T14:42:04.080Z",
+      "detail": "Aaldering #1 · Order forecast 1",
+      "shipmentId": "a7c06795-769c-4aba-aafc-ae7bf7e0bfc0",
+      "versionId": "af9fa5cc-db60-401e-a7c8-c89d7a3ccb04"
+    }
+  },
+  {
+    "wine_id": "workbook-185",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": null,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Aaldering #1 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": null,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Aaldering #1 assumptions",
+      "excise": null
+    }
+  },
+  {
+    "wine_id": "workbook-185",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 375.6002666666667,
+    "basis": "Forecast",
+    "detail": "Aaldering #1 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 375.6002666666667,
+      "basis": "Forecast",
+      "date": "2026-10-21T14:42:04.080Z",
+      "detail": "Aaldering #1 · Order forecast 1",
+      "shipmentId": "a7c06795-769c-4aba-aafc-ae7bf7e0bfc0",
+      "versionId": "af9fa5cc-db60-401e-a7c8-c89d7a3ccb04"
+    }
+  },
+  {
+    "wine_id": "workbook-395",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 439.40583333333336,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Golding / Hatch assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 439.40583333333336,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Golding / Hatch assumptions",
+      "excise": 117
+    }
+  },
+  {
+    "wine_id": "workbook-395",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 458.3548729,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 395; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 458.3548729,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 395; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-396",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 453.21202380952377,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Golding / Hatch assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 453.21202380952377,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Golding / Hatch assumptions",
+      "excise": 128.75
+    }
+  },
+  {
+    "wine_id": "workbook-396",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 471.5798729,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 396; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 471.5798729,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 396; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-397",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 457.0308333333333,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Golding / Hatch assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 457.0308333333333,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Golding / Hatch assumptions",
+      "excise": 132
+    }
+  },
+  {
+    "wine_id": "workbook-397",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 475.9748729,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 397; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 475.9748729,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 397; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-398",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 454.0933333333333,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Golding / Hatch assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 454.0933333333333,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Golding / Hatch assumptions",
+      "excise": 129.5
+    }
+  },
+  {
+    "wine_id": "workbook-398",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 471.5798729,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 398; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 471.5798729,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 398; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-399",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 534.5858333333333,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Golding / Hatch assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 534.5858333333333,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Golding / Hatch assumptions",
+      "excise": 139
+    }
+  },
+  {
+    "wine_id": "workbook-399",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 554.9171629,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 399; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 554.9171629,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 399; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-400",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 606.5595833333333,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Golding / Hatch assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 606.5595833333333,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Golding / Hatch assumptions",
+      "excise": 141.25
+    }
+  },
+  {
+    "wine_id": "workbook-400",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 627.1244529,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 400; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 627.1244529,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 400; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-401",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 1023.7063888888889,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Lienert/Eisenstone assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 1023.7063888888889,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Lienert/Eisenstone assumptions",
+      "excise": 188.75
+    }
+  },
+  {
+    "wine_id": "workbook-401",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 1133.565623,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 401; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 1133.565623,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 401; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-402",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 1023.706,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Lienert/Eisenstone assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 1023.706,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Lienert/Eisenstone assumptions",
+      "excise": 188.75
+    }
+  },
+  {
+    "wine_id": "workbook-402",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 1133.565623,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 402; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 1133.565623,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 402; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-403",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 1023.706,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Lienert/Eisenstone assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 1023.706,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Lienert/Eisenstone assumptions",
+      "excise": 188.75
+    }
+  },
+  {
+    "wine_id": "workbook-403",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 1133.565623,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 403; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 1133.565623,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 403; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-404",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": null,
+    "basis": "Projected",
+    "detail": "Current Registered Price · CMP BiB assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": null,
+      "basis": "Projected",
+      "detail": "Current Registered Price · CMP BiB assumptions",
+      "excise": null
+    }
+  },
+  {
+    "wine_id": "workbook-404",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 1792.2023333333332,
+    "basis": "Forecast",
+    "detail": "CMP BiB · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 1792.2023333333332,
+      "basis": "Forecast",
+      "date": "2026-10-20T01:51:45.491Z",
+      "detail": "CMP BiB · Order forecast 1",
+      "shipmentId": "f20500ba-b066-4b85-827e-f8aecd8c7abd",
+      "versionId": "a782166d-1c18-4ef1-8588-7d2c1e56cf23"
+    }
+  },
+  {
+    "wine_id": "workbook-405",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": null,
+    "basis": "Projected",
+    "detail": "Current Registered Price · CMP BiB assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": null,
+      "basis": "Projected",
+      "detail": "Current Registered Price · CMP BiB assumptions",
+      "excise": null
+    }
+  },
+  {
+    "wine_id": "workbook-405",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 1762.8275510204082,
+    "basis": "Forecast",
+    "detail": "CMP BiB · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 1762.8275510204082,
+      "basis": "Forecast",
+      "date": "2026-10-20T01:51:45.491Z",
+      "detail": "CMP BiB · Order forecast 1",
+      "shipmentId": "f20500ba-b066-4b85-827e-f8aecd8c7abd",
+      "versionId": "a782166d-1c18-4ef1-8588-7d2c1e56cf23"
+    }
+  },
+  {
+    "wine_id": "workbook-406",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": null,
+    "basis": "Projected",
+    "detail": "Current Registered Price · CMP BiB assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": null,
+      "basis": "Projected",
+      "detail": "Current Registered Price · CMP BiB assumptions",
+      "excise": null
+    }
+  },
+  {
+    "wine_id": "workbook-406",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 1762.828,
+    "basis": "Forecast",
+    "detail": "CMP BiB · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 1762.828,
+      "basis": "Forecast",
+      "date": "2026-10-20T01:51:45.491Z",
+      "detail": "CMP BiB · Order forecast 1",
+      "shipmentId": "f20500ba-b066-4b85-827e-f8aecd8c7abd",
+      "versionId": "a782166d-1c18-4ef1-8588-7d2c1e56cf23"
+    }
+  },
+  {
+    "wine_id": "workbook-431",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 406.71387500000003,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Marlborist 27 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 406.71387500000003,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Marlborist 27 assumptions",
+      "excise": 131.5
+    }
+  },
+  {
+    "wine_id": "workbook-431",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 405.2200857,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 431; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 405.2200857,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 431; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-433",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 473.68054166666667,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Marlborist 27 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 473.68054166666667,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Marlborist 27 assumptions",
+      "excise": 137.5
+    }
+  },
+  {
+    "wine_id": "workbook-433",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 474.2360671,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 433; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 474.2360671,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 433; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-434",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": null,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Marlborist 27 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": null,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Marlborist 27 assumptions",
+      "excise": null
+    }
+  },
+  {
+    "wine_id": "workbook-434",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 530.3250171,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 434; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 530.3250171,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 434; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-435",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": null,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Marlborist 27 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": null,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Marlborist 27 assumptions",
+      "excise": null
+    }
+  },
+  {
+    "wine_id": "workbook-435",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 598.7509985,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 435; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 598.7509985,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 435; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-436",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": null,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Marlborist 27 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": null,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Marlborist 27 assumptions",
+      "excise": null
+    }
+  },
+  {
+    "wine_id": "workbook-436",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 638.0479171,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 436; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 638.0479171,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 436; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-438",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 446.0621905,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 438; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 446.0621905,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 438; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-438",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 446.0621905,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 438; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 446.0621905,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 438; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-439",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 454.2821905,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 439; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 454.2821905,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 439; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-439",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 454.2821905,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 439; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 454.2821905,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 439; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-440",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 462.7871905,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 440; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 462.7871905,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 440; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-440",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 462.7871905,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 440; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 462.7871905,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 440; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-441",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 462.7871905,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 441; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 462.7871905,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 441; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-441",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 462.7871905,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 441; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 462.7871905,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 441; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-442",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 592.4194405,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 442; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 592.4194405,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 442; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-442",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 592.4194405,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 442; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 592.4194405,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 442; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-443",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 594.7694405,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 443; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 594.7694405,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 443; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-443",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 594.7694405,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 443; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 594.7694405,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 443; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-444",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 599.1644405,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 444; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 599.1644405,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 444; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-444",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 599.1644405,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 444; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 599.1644405,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 444; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-445",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 595.6444405,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 445; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 595.6444405,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 445; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-445",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 595.6444405,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 445; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 595.6444405,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 445; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-446",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 1205.15719,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 446; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 1205.15719,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 446; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-446",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 1205.15719,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 446; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 1205.15719,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 446; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-447",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 1012.23469,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 447; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 1012.23469,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 447; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-447",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 1012.23469,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 447; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 1012.23469,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 447; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-448",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 541.9025655,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 448; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 541.9025655,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 448; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-448",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 541.9025655,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 448; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 541.9025655,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 448; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-449",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 536.0225655,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 449; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 536.0225655,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 449; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-449",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 536.0225655,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 449; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 536.0225655,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 449; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-450",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 546.0225655,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 450; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 546.0225655,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 450; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-450",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 546.0225655,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 450; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 546.0225655,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 450; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-453",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": null,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Spada August 26 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": null,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Spada August 26 assumptions",
+      "excise": null
+    }
+  },
+  {
+    "wine_id": "workbook-453",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 2194.3686666666667,
+    "basis": "Forecast",
+    "detail": "Spada August 26 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 2194.3686666666667,
+      "basis": "Forecast",
+      "date": "2026-10-20T02:16:33.046Z",
+      "detail": "Spada August 26 · Order forecast 1",
+      "shipmentId": "47aef809-690f-4b59-a6b5-c3dc16d4b823",
+      "versionId": "5df0bc76-abef-4011-85e7-196e98047c7d"
+    }
+  },
+  {
+    "wine_id": "workbook-454",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": null,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Spada August 26 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": null,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Spada August 26 assumptions",
+      "excise": null
+    }
+  },
+  {
+    "wine_id": "workbook-454",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 805.175,
+    "basis": "Forecast",
+    "detail": "Spada August 26 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 805.175,
+      "basis": "Forecast",
+      "date": "2026-10-20T02:16:33.046Z",
+      "detail": "Spada August 26 · Order forecast 1",
+      "shipmentId": "47aef809-690f-4b59-a6b5-c3dc16d4b823",
+      "versionId": "5df0bc76-abef-4011-85e7-196e98047c7d"
+    }
+  },
+  {
+    "wine_id": "workbook-455",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": null,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Spada August 26 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": null,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Spada August 26 assumptions",
+      "excise": null
+    }
+  },
+  {
+    "wine_id": "workbook-455",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 1061.4563333333333,
+    "basis": "Forecast",
+    "detail": "Spada August 26 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 1061.4563333333333,
+      "basis": "Forecast",
+      "date": "2026-10-20T02:16:33.046Z",
+      "detail": "Spada August 26 · Order forecast 1",
+      "shipmentId": "47aef809-690f-4b59-a6b5-c3dc16d4b823",
+      "versionId": "5df0bc76-abef-4011-85e7-196e98047c7d"
+    }
+  },
+  {
+    "wine_id": "workbook-456",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": null,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Spada August 26 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": null,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Spada August 26 assumptions",
+      "excise": null
+    }
+  },
+  {
+    "wine_id": "workbook-456",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 402.06266666666664,
+    "basis": "Forecast",
+    "detail": "Spada August 26 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 402.06266666666664,
+      "basis": "Forecast",
+      "date": "2026-10-20T02:16:33.046Z",
+      "detail": "Spada August 26 · Order forecast 1",
+      "shipmentId": "47aef809-690f-4b59-a6b5-c3dc16d4b823",
+      "versionId": "5df0bc76-abef-4011-85e7-196e98047c7d"
+    }
+  },
+  {
+    "wine_id": "workbook-457",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": null,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Spada August 26 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": null,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Spada August 26 assumptions",
+      "excise": null
+    }
+  },
+  {
+    "wine_id": "workbook-457",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 506.51880000000006,
+    "basis": "Forecast",
+    "detail": "Spada August 26 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 506.51880000000006,
+      "basis": "Forecast",
+      "date": "2026-10-20T02:16:33.046Z",
+      "detail": "Spada August 26 · Order forecast 1",
+      "shipmentId": "47aef809-690f-4b59-a6b5-c3dc16d4b823",
+      "versionId": "5df0bc76-abef-4011-85e7-196e98047c7d"
+    }
+  },
+  {
+    "wine_id": "workbook-458",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": null,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Spada August 26 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": null,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Spada August 26 assumptions",
+      "excise": null
+    }
+  },
+  {
+    "wine_id": "workbook-458",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 587.1313333333333,
+    "basis": "Forecast",
+    "detail": "Spada August 26 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 587.1313333333333,
+      "basis": "Forecast",
+      "date": "2026-10-20T02:16:33.046Z",
+      "detail": "Spada August 26 · Order forecast 1",
+      "shipmentId": "47aef809-690f-4b59-a6b5-c3dc16d4b823",
+      "versionId": "5df0bc76-abef-4011-85e7-196e98047c7d"
+    }
+  },
+  {
+    "wine_id": "workbook-459",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 412.5634038,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 459; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 412.5634038,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 459; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "workbook-459",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 412.5634038,
+    "basis": "Workbook · unverified",
+    "detail": "Wine Purchase Planning row 459; imported values require review. Variety/type retained as entered in column D.",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 412.5634038,
+      "basis": "Workbook · unverified",
+      "detail": "Wine Purchase Planning row 459; imported values require review. Variety/type retained as entered in column D."
+    }
+  },
+  {
+    "wine_id": "abb9f54a-2e44-4bfd-8a4d-9415f5847b05",
+    "reference_kind": "displayed",
+    "source_revision": 1392,
+    "cost": 605.6736458333334,
+    "basis": "Projected",
+    "detail": "Current Registered Price · Fetherston 26 assumptions",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 605.6736458333334,
+      "basis": "Projected",
+      "detail": "Current Registered Price · Fetherston 26 assumptions",
+      "excise": 161
+    }
+  },
+  {
+    "wine_id": "abb9f54a-2e44-4bfd-8a4d-9415f5847b05",
+    "reference_kind": "historical",
+    "source_revision": 1392,
+    "cost": 605.6736458333334,
+    "basis": "Forecast",
+    "detail": "Fetherston 26 · Order forecast 1",
+    "captured_at": "2026-11-10T18:34:57.124Z",
+    "source_payload": {
+      "cost": 605.6736458333334,
+      "basis": "Forecast",
+      "date": "2026-11-07T17:53:49.845Z",
+      "detail": "Fetherston 26 · Order forecast 1",
+      "shipmentId": "85d659ae-4f29-408d-a5b1-9b6a8f8654f5",
+      "versionId": "3f45e242-e9b0-417a-9e34-30f7ba0f7272"
+    }
+  }
+]
