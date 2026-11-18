@@ -588,3 +588,21 @@ html[lang="th"] h2 {
     font-size: 12px;
   }
 }
+
+.page-loading-placeholder {
+  display: grid;
+  gap: 16px;
+  margin-top: 20px;
+  padding: 24px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--surface);
+}
+.page-loading-placeholder > div {
+  height: 20px;
+  border-radius: 4px;
+  background: var(--line);
+}
+.page-loading-placeholder > div:first-child {
+  width: 45%;
+}

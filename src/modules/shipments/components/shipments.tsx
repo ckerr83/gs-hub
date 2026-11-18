@@ -22,33 +22,31 @@ export function Shipments() {
     const { t } = useShipmentI18n();
     const [shipments, setShipments] = useState<Shipment[]>([]), [wines, setWines] = useState<Wine[]>([]), [draft, setDraft] = useState<Shipment | null>(null), [canWrite, setCanWrite] = useState(false), [loading, setLoading] = useState(true), [busy, setBusy] = useState(false), [error, setError] = useState(''), [message, setMessage] = useState(''), [wineError, setWineError] = useState(false), [view, setView] = useState<'active' | 'completed'>('active'), [tab, setTab] = useState(tabs[0]), [modal, setModal] = useState(''), [wineEdit, setWineEdit] = useState<ShipmentWine | null>(null), [expenseEdit, setExpenseEdit] = useState<Expense | null>(null), [settings, setSettings] = useState<Shipment | null>(null), [version, setVersion] = useState<Snapshot | null>(null), [date, setDate] = useState(''), [note, setNote] = useState('');
     const saved = shipments.find(s => s.id === draft?.id), dirty = !!draft && JSON.stringify(draft) !== JSON.stringify(saved);
-    const load = useCallback(async () => { setLoading(true); setError(''); try {
-        const result = await wineRequest<{
-            shipments: Shipment[];
-            canWrite: boolean;
-        }>('/api/shipments');
-        setShipments(result.shipments);
-        setCanWrite(result.canWrite);
-        const first = result.shipments.find(s => !completed(s)) ?? result.shipments[0] ?? null;
-        setDraft(first ? structuredClone(first) : null);
-        setView(first && completed(first) ? 'completed' : 'active');
+    const load = useCallback(async () => {
+        setLoading(true);
+        setError('');
+        setCanWrite(false);
         try {
-            const catalogue = await wineRequest<{
-                wines: Wine[];
-            }>('/api/wine-database');
-            setWines(catalogue.wines);
-            setWineError(false);
+            // The catalogue and shipments are independent: start both together.
+            // A catalogue failure must not prevent existing shipments opening.
+            const [result, catalogue] = await Promise.allSettled([
+                wineRequest<{ shipments: Shipment[]; canWrite: boolean }>('/api/shipments'),
+                wineRequest<{ wines: Wine[] }>('/api/wine-database'),
+            ]);
+            if (result.status === 'rejected') throw result.reason;
+            setShipments(result.value.shipments);
+            setCanWrite(result.value.canWrite);
+            const first = result.value.shipments.find(s => !completed(s)) ?? result.value.shipments[0] ?? null;
+            setDraft(first ? structuredClone(first) : null);
+            setView(first && completed(first) ? 'completed' : 'active');
+            setWines(catalogue.status === 'fulfilled' ? catalogue.value.wines : []);
+            setWineError(catalogue.status === 'rejected');
+        } catch (e) {
+            setError(e instanceof Error ? e.message : 'unavailable');
+        } finally {
+            setLoading(false);
         }
-        catch {
-            setWineError(true);
-        }
-    }
-    catch (e) {
-        setError(e instanceof Error ? e.message : 'unavailable');
-    }
-    finally {
-        setLoading(false);
-    } }, []);
+    }, []);
     useEffect(() => { const timer = setTimeout(() => void load(), 0); return () => clearTimeout(timer); }, [load]);
     useEffect(() => { if (!dirty)
         return; const handler = (e: BeforeUnloadEvent) => { e.preventDefault(); }; window.addEventListener('beforeunload', handler); return () => window.removeEventListener('beforeunload', handler); }, [dirty]);

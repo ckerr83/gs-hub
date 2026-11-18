@@ -1,4 +1,5 @@
 export const thai = {
+  "Loading…": "กำลังโหลด…",
   "Shipments": "การนำเข้า",
   "Error code": "รหัสข้อผิดพลาด",
   "This address cannot sign in yet. Ask an administrator to check its invitation and email sign-in settings.":

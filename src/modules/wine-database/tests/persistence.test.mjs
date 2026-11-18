@@ -48,7 +48,7 @@ test("all records load even when API limits each response to fewer than 500", as
     };
   });
   assert.deepEqual(result, source);
-  assert.equal(calls, 37);
+  assert.equal(calls, 36);
 });
 test("a failed or inconsistent batch never yields a truncated list", async () => {
   await assert.rejects(

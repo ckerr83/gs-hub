@@ -31,8 +31,6 @@ export async function authorizedClient(write = false) {
 const selection = "*, wine_cost_references(*)";
 export async function getWineDatabase() {
   const client = await authorizedClient();
-  const permission = await client.rpc("wine_can_write");
-  if (permission.error) throw new DatabaseError("unavailable");
   async function revision() {
     // Include archived rows: an archive during loading must invalidate the load.
     const result = await client
@@ -45,13 +43,17 @@ export async function getWineDatabase() {
     return result.data?.updated_at ?? null;
   }
   try {
-    const baseline = await revision();
+    // These independent checks share one network wait. Keep the permission
+    // and revision checks request-local; never cache another user's wine data.
+    const [permission, baseline, total] = await Promise.all([
+      client.rpc("wine_can_write"),
+      revision(),
+      client.from("wines").select("id", { count: "exact", head: true }).is("archived_at", null),
+    ]);
+    if (permission.error || total.error || total.count === null)
+      throw new DatabaseError("unavailable");
+    const count = total.count;
     const rows = await collectAll<WineRow>(async (after) => {
-      // count covers all active records, while the cursor limits only this batch.
-      const total = await client
-        .from("wines")
-        .select("id", { count: "exact", head: true })
-        .is("archived_at", null);
       let query = client
         .from("wines")
         .select(selection)
@@ -64,9 +66,9 @@ export async function getWineDatabase() {
         .limit(500);
       if (after !== null) query = query.gt("id", after);
       const page = await query;
-      if (total.error || total.count === null || page.error || !page.data)
+      if (page.error || !page.data)
         throw new DatabaseError("unavailable");
-      return { rows: page.data as WineRow[], count: total.count };
+      return { rows: page.data as WineRow[], count };
     });
     if ((await revision()) !== baseline) throw new DatabaseError("incomplete");
     return { wines: rows.map(fromRow), canWrite: permission.data === true };

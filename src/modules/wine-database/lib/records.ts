@@ -117,7 +117,10 @@ export async function collectAll<T extends { id: string }>(
       after = row.id;
       rows.push(row);
     }
-    // Continue after short pages as the API's configured cap can be below our limit.
+    if (rows.length > expected) throw new Error("incomplete");
+    // The exact count tells us when the final record arrived. Short pages can
+    // still be capped by PostgREST, so keep following the cursor until then.
+    if (rows.length === expected) break;
   }
   if (rows.length !== expected) throw new Error("incomplete");
   return rows;
