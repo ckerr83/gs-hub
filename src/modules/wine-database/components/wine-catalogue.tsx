@@ -1,6 +1,6 @@
 "use client";
 import { BottleImage } from "./bottle-image";
-import { cost, metrics, wineStyle } from "../lib/model";
+import { cost, costBasis, metrics, wineStyle } from "../lib/model";
 import { useI18n } from "@/lib/i18n/provider";
 import type { Wine } from "../types";
 export function WineCatalogue({
@@ -36,7 +36,7 @@ export function WineCatalogue({
                 [
                   "ABV / size",
                   "Supplier / bottle",
-                  "Landed reference",
+                  "Landed cost",
                   "Registered price",
                   "Sales price",
                   "Margin",
@@ -99,7 +99,7 @@ export function WineCatalogue({
                   <td className="numeric">
                     {baht(cost(wine))}
                     <small>
-                      {wine.importedCost?.basis || t("No cost basis")}
+                      {t(costBasis(wine))}
                     </small>
                   </td>
                   <td className="numeric">

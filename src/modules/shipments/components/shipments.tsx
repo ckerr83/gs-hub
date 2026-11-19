@@ -36,7 +36,11 @@ export function Shipments() {
             if (result.status === 'rejected') throw result.reason;
             setShipments(result.value.shipments);
             setCanWrite(result.value.canWrite);
-            const first = result.value.shipments.find(s => !completed(s)) ?? result.value.shipments[0] ?? null;
+            const requested = new URLSearchParams(window.location.search).get('shipment');
+            const first = result.value.shipments.find(s => s.id === requested) ?? result.value.shipments.find(s => !completed(s)) ?? result.value.shipments[0] ?? null;
+            const requestedVersion = new URLSearchParams(window.location.search).get('version');
+            const snapshot = first?.snapshots.find(v => v.id === requestedVersion);
+            if (snapshot) { setVersion(snapshot); setModal('version'); }
             setDraft(first ? structuredClone(first) : null);
             setView(first && completed(first) ? 'completed' : 'active');
             setWines(catalogue.status === 'fulfilled' ? catalogue.value.wines : []);

@@ -21,6 +21,7 @@ export function reconcileWine(local: Wine, remote?: Wine): Wine {
     updatedAt: remote?.updatedAt,
     importedCost: remote?.importedCost ?? null,
     historicalCost: remote?.historicalCost ?? null,
+    shipmentCosts: remote?.shipmentCosts,
     landedReference: remote?.landedReference ?? null,
     sourceNote: remote?.sourceNote,
     imageUrl: remote?.imageUrl ?? null,

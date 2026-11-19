@@ -4,7 +4,8 @@ import { useEffect, useState } from "react";
 import { useI18n } from "@/lib/i18n/provider";
 import { Modal } from "./modal";
 import { BottleImage } from "./bottle-image";
-import { cost, metrics, wineStyle } from "../lib/model";
+import { cost, costBasis, metrics, wineStyle } from "../lib/model";
+import { WineShipmentHistory } from "./wine-shipment-history";
 import type { JsonValue, Wine, WineEvidence } from "../types";
 
 function EvidenceValue({ value }: { value: JsonValue }) {
@@ -147,12 +148,10 @@ export function WineDetails({
             </p>
             <div className="detail-metrics">
               <div>
-                <span>{t("Landed reference")}</span>
+                <span>{t("Landed cost")}</span>
                 <strong>{baht(cost(wine))}</strong>
                 <small>
-                  {wine.importedCost?.basis === "Projected"
-                    ? wine.importedCost.basis
-                    : wine.importedCost?.basis || t("No cost basis")}
+                  {t(costBasis(wine))} · {t("THB / bottle, excl. VAT")}
                 </small>
               </div>
               <div>
@@ -170,7 +169,7 @@ export function WineDetails({
               <div>
                 <span>{t("Profit / bottle")}</span>
                 <strong>{baht(profit)}</strong>
-                <small>{t("Sales \u2212 landed reference")}</small>
+                <small>{t("Sales − landed cost")}</small>
               </div>
             </div>
           </div>
@@ -199,8 +198,10 @@ export function WineDetails({
             </dl>
           </section>
         </div>
+        <WineShipmentHistory wine={wine} />
         <section className="detail-section cost-notes">
           <h3>{t("Cost reference & source evidence")}</h3>
+          <p>{t("Landed reference")}: {baht(wine.importedCost?.cost)} · {wine.importedCost?.basis || t("No cost basis")}</p>
           <p>
             {wine.importedCost?.detail ||
               wine.sourceNote ||

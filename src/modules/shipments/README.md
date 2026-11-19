@@ -152,3 +152,16 @@ To regenerate import files (offline, without database writes):
 ```sh
 npm run shipment:prepare-import -- src/modules/shipments/data/legacy-shipments.json src/modules/shipments/database/import
 ```
+
+## Wine database integration
+
+`data/wine-costs.ts` projects persisted shipment costs into the wine API response.
+The wine list shows one landed cost and its basis: calculated until an explicitly
+recorded actual exists, then actual (with a partial label when applicable).
+Saved versions retain their original calculations. Repeated product IDs across
+pallets are weighted by bottles. The original imported wine references are never
+rewritten. Wine details link to `/shipments?shipment=<id>&version=<snapshot-id>`.
+
+No additional SQL is required for this projection. It uses the existing authorized
+shipment reader, complete record loading, version checks and RLS. If those reads
+fail, the wine endpoint reports an error instead of substituting snapshot data.

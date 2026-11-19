@@ -4,6 +4,7 @@ import http from 'node:http';
 import {readFile} from 'node:fs/promises';
 import {PGlite} from '@electric-sql/pglite';
 const {applyAction}=await import('../data/model.ts');
+const {withShipmentCosts}=await import('../data/wine-costs.ts');
 const {validShipment}=await import('../data/validation.ts');
 const db=new PGlite();
 await db.exec(`create role anon;create role authenticated;create table public.wines(id text primary key);create function public.wine_can_read() returns boolean language sql stable as $$ select true $$;create function public.wine_can_write() returns boolean language sql stable as $$ select true $$;`);
@@ -24,7 +25,8 @@ const server=http.createServer(async(req,res)=>{try{
   const next=applyAction(stored,value.shipment,value.action,{date:value.date,note:value.note,author:'Local QA'});
   const result=await db.query('select public.shipment_commit($1,$2) as value',[next,stored?.version??0]);send(result.rows[0].value);return;
  }
- if(url.pathname==='/api/wine-database'){send({wines:catalogue.wines,canWrite:true});return;}
+ if(url.pathname==='/api/wine-database'){const rows=await db.query('select public.shipment_get(id) as value from public.shipments order by id');send({wines:withShipmentCosts(catalogue.wines,rows.rows.map(r=>r.value)),canWrite:true});return;}
+ if(url.pathname.startsWith('/api/wine-database/')){send(null,404);return;}
  if(url.pathname.startsWith('/wine-database/images/')){const filename=url.pathname.split('/').at(-1);if(!/^[a-f0-9-]{36}\.png$/.test(filename)){res.writeHead(404);res.end();return;}const bytes=await readFile(new URL('../../wine-database/assets/images/'+filename,import.meta.url));res.writeHead(200,{'Content-Type':'image/png'});res.end(bytes);return;}
  const headers={...req.headers,host:new URL(target).host};delete headers['accept-encoding'];const response=await fetch(target+req.url,{method:req.method,headers,redirect:'manual'});const bytes=Buffer.from(await response.arrayBuffer());
  const outgoing=Object.fromEntries(response.headers);delete outgoing['content-length'];delete outgoing['content-encoding'];delete outgoing['transfer-encoding'];

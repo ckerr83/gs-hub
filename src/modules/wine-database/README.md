@@ -271,3 +271,30 @@ vertical scrolling moves the entire page, including all top controls, away.
 The shared header uses the supplied GS Import round PNG from
 `src/assets/gs-import-logo.png` on every route. It replaces the generated GS mark.
 The original logo file is copied unchanged and is bundled with the application.
+
+## Shipment landed costs
+
+The wine list has one **Landed cost** column with a small basis label. On each
+load/refresh, the API reads the persisted, authorized Supabase shipment documents
+and joins them to wines by stable `productId`. No name/SKU matching, new cost
+storage, SQL migration or evidence rewrite is involved.
+
+- Calculated: latest saved plan or forecast for that wine.
+- Actual / Actual · partial: latest explicitly recorded actual version; it
+  supersedes calculated costs. Arrival or an unrecorded actuals draft alone does
+  not establish an actual cost. Partial versions can still contain estimates.
+- Landed reference: retained imported evidence, only when no shipment cost exists.
+- Missing inputs stay unknown. A shipment read failure fails the load rather than
+  displaying an old imported number as a current cost.
+
+Costs are THB per bottle excluding VAT. Repeated wine lines on different pallets
+use their total allocated cost divided by total bottles. Margin, markup and profit
+use the displayed cost. The details retain every linked shipment/version with
+source links and dates; imported workbook evidence remains separate and unchanged.
+Newest means the version's recorded timestamp (or a saved plan's update timestamp),
+not a later note edit on an older shipment. Actuals take precedence even if a newer
+forecast exists; the details identify which shipment supplies the displayed value.
+
+The existing shipment schema and records must be installed in the same Supabase
+project. Deployment does not run that SQL. This integration is tested locally;
+live Supabase write/reload verification remains a separate acceptance check.

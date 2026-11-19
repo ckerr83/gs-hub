@@ -1,5 +1,6 @@
 import type { TranslationKey } from "@/lib/i18n/dictionaries";
 export const errorMessage: Record<string, TranslationKey> = {
+  "shipment-setup": "Shipment costs could not be loaded. Check the shipment database setup and retry.",
   setup:
     "Team sign-in and an approved user roster are required before this database can be used.",
   auth: "Sign in to view the wine database.",

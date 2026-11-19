@@ -4,6 +4,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
 const {newShipment,applyAction}=await import('../data/model.ts');
+const {shipmentWineCosts}=await import('../data/wine-costs.ts');
 const root=new URL('../',import.meta.url);
 export async function testDatabase(){const db=new PGlite();await db.exec(`create role anon; create role authenticated;
 create table public.wines(id text primary key);
@@ -45,5 +46,18 @@ test('shipment SQL imports atomically and preserves saves, archives, history and
  const ordered=(await db.query("select public.shipment_get(id) as value from public.shipments where data->>'stage'='ordered' limit 1")).rows[0].value;
  const landed=applyAction(ordered,ordered,'land',{date:'2026-11-16'});const result=(await db.query('select public.shipment_commit($1,$2) as value',[landed,ordered.version])).rows[0].value;
  assert.equal(result.arrivalDate,'2026-11-16');assert.equal(result.stage,'actuals');assert.deepEqual(result.snapshots,ordered.snapshots);
+ // A real SQL commit must feed the wine projection on a fresh read, without
+ // updating wine records or historical references. This is local PostgreSQL.
+ const productId=ordered.wines[0].productId;
+ const forecast=shipmentWineCosts([ordered]).get(productId).calculated;
+ const partial=applyAction(result,{...result,fx:result.fx+1},'partial');
+ await db.query('select public.shipment_commit($1,$2)',[partial,result.version]);
+ for(let read=0;read<2;read++){
+   const reloaded=(await db.query('select public.shipment_get($1) as value',[result.id])).rows[0].value;
+   const costs=shipmentWineCosts([reloaded]).get(productId);
+   assert.equal(costs.actual.status,'partial');assert.ok(costs.actual.cost>0);
+   assert.deepEqual(costs.calculated,forecast);
+   assert.equal(costs.actual.versionId,partial.snapshots.at(-1).id);
+ }
  }finally{await db.close();}
 });

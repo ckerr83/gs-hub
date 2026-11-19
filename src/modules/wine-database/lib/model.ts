@@ -9,8 +9,21 @@ export function wineStyle(wine: Wine) {
   return "Other";
 }
 
-// Imported projected costs are frozen evidence, not live tax calculations.
+export function costBasis(wine: Wine) {
+  const costs = wine.shipmentCosts;
+  if (costs?.actual) return costs.actual.status === "complete" ? "Actual" : "Actual · partial";
+  if (costs?.calculated) return "Calculated";
+  if (costs?.history.length) return "No cost basis";
+  return wine.importedCost?.cost != null ? "Landed reference" : "No cost basis";
+}
+
+// Recorded actuals supersede calculations, with partial versions labelled.
+// Missing shipment inputs must not silently fall back to an old imported value.
 export function cost(wine: Wine) {
+  const basis = costBasis(wine);
+  if (basis === "Actual" || basis === "Actual · partial") return wine.shipmentCosts!.actual!.cost;
+  if (basis === "Calculated") return wine.shipmentCosts!.calculated!.cost;
+  if (basis === "No cost basis") return null;
   return wine.importedCost?.cost ?? null;
 }
 export function metrics(wine: Wine) {

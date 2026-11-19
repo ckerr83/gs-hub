@@ -1,3 +1,5 @@
+import type { WineShipmentCosts } from "../shipments/data/wine-costs";
+
 export type CostReference = {
   cost: number | null;
   basis: string;
@@ -38,6 +40,7 @@ export type Wine = {
   imageUrl: string | null;
   importedCost: CostReference | null;
   historicalCost: CostReference | null;
+  shipmentCosts?: WineShipmentCosts;
 };
 
 export type WineChanges = {

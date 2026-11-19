@@ -100,3 +100,19 @@ area. The table region's clientHeight equals its scrollHeight, with max-height
 Previews: `compact-desktop-fixture.png`, `compact-thai-mobile-fixture.png`,
 `compact-scrolled-mobile-fixture.png`. Port 3002 was restarted with the final
 production build and left running; the separate fixture harness was stopped.
+
+### Shipment landed cost integration (19 November 2026)
+
+Local production build + explicit PostgreSQL fixture only; these screenshots do
+not establish access to live Supabase:
+
+- `shipment-cost-desktop.png`: one cost column, calculated Golding costs.
+- `shipment-cost-actual.png`: Borsao actuals replace the original forecast values.
+- `shipment-cost-mobile-th.png`: Thai labels, 390 px viewport, horizontal table scrolling.
+
+Verified 123 rendered rows before filtering, producer filtering, the saved version
+source link (Borsao Actual 1), Thai language persistence after reload, and no page
+width overflow at 1440 px or 390 px. Local SQL tests save a new actual version,
+reload it twice and confirm the wine projection changes while the forecast stays
+unchanged. The real local API rejects signed-out requests with 401. No live
+Supabase writes or Vercel deployment were performed for this change.

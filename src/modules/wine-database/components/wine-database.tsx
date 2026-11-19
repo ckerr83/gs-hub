@@ -123,11 +123,11 @@ export function WineDatabase() {
       const saved = await wineRequest<Wine>(
         existing ? `${endpoint}/${encodeURIComponent(wine.id)}` : endpoint,
         existing ? "PUT" : "POST",
-        wine,
+        { ...wine, shipmentCosts: undefined },
       );
       setWines((previous) => [
         ...previous.filter((record) => record.id !== saved.id),
-        saved,
+        { ...saved, shipmentCosts: previous.find(record => record.id === saved.id)?.shipmentCosts },
       ]);
       setPanel(null);
       setMessage("Saved to shared database.");

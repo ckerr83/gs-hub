@@ -4,6 +4,8 @@ import {
   getWineDatabase,
   saveWine,
 } from "../repository";
+import { loadShipments } from "@/modules/shipments/server/repository";
+import { withShipmentCosts } from "@/modules/shipments/data/wine-costs";
 export function failure(error: unknown) {
   return Response.json(
     { error: error instanceof DatabaseError ? error.code : "unavailable" },
@@ -20,8 +22,11 @@ export function json(value: unknown) {
 }
 export async function GET() {
   try {
-    return json(await getWineDatabase());
+    const [database, { shipments }] = await Promise.all([getWineDatabase(), loadShipments()]);
+    return json({ ...database, wines: withShipmentCosts(database.wines, shipments) });
   } catch (error) {
+    if (error instanceof DatabaseError && error.code === "conflict")
+      return failure(new DatabaseError("incomplete", 409));
     return failure(error);
   }
 }
